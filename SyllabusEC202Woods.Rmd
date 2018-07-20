@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC202 Fall 2018"
+title: "Syllabus EC202: Fall 2018"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -21,9 +21,9 @@ It is my intent to give you a basket of tools that you can use after the final e
 
 ## Key Dates
 
-+ Final Exam: August 16th from 4:30 -- 6:50
-+ Midterm 1: July 17th
-+ Midterm 2: August 7th
++ Final Exam: ***FILL IN***
++ Midterm 1: October 18th
++ Midterm 2: November 13th
 
 Exams will be given on those days and at those times only.  I do not give make up, early or late exams.  The final is required.  You will receive a failing grade if you don't take it.
 
@@ -37,20 +37,22 @@ Slack will be used for IM, email and forum style communication.  It even handles
 
 Please note that I am not online all the time, and when I am online I will prioritize well-phrased questions with sufficient detail.  I tend to ignore general complaints, questions that can be answered by reading the syllabus or using the search bar.  
 
-I will not react to questions in the day prior to an exam  under most circumstances. I am just trying to protect my workload from student procrastination.  *If your study strategy is to cram the night before, you are on your own.* 
+I will not react to questions in the day prior to an exam under most circumstances. I am just trying to protect my workload from student procrastination.  *If your study strategy is to cram the night before, you are on your own.* 
 
 
 Office Hours:
 
 + My office is in CH 241-O.
-+ Drop in office hours are Tues 3:00-4:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ Drop in office hours are Monday 12:00-1:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
 + If you can’t attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 15 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points.  
 
-My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  
+My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  I will put something on slack if this is necessary.
 
 # Textbook and Other Resources
 
+I have assigned Krugman, Paul R., and Robin Wells. Macroeconomics ed. 5., Worth Publishers, 2018.(ISBN-10: 1-319-09875-4).  This textbook is amazingly overpriced.  I will not be assigning questions from the chapters, so feel free to purchase one of the earlier editions of the book.
 
+The 3rd edition can be found at a more reasonable price and can even be rented for less than \$20. Just remember that you are responsible for keeping track of the differences in chapter numbering and the differences between editions. You can find the table of contents for the 5th edition here (https://www.macmillanlearning.com/Catalog/product/macroeconomics-fifthedition-krugman/tableofcontents#tab).
 
 ## Netiquette
 
@@ -69,7 +71,9 @@ of the term. If your inappropriate conduct is in private, a student code of cond
  
 ## D2L
 
-D2L will be how you turn in homework assignments and check your grades, but little else will be in there.  
+You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activites. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will typically be due Friday at noon and I will always give you at least a week between assignment of homework and the due date.
+
+The course landing page will also have links to the course slack group and the slides I create for class.
 
 # Assessments and Grade Policy
 
@@ -78,12 +82,12 @@ Your grade in the class will be based on your performance on the midterms, final
 + Final Exam (30%)
 + Midterm 1 (20%)
 + Midterm 2 (20%)
-+ In-class quizzes (10%)
-+ Homework (20%)
++ In-class quizzes (20%)
++ Homework (10%)
 
 ## Exams
 
-Exams will be closed note and closed book.  Problems will primarily be problem solving but there may be some multiple choice questions.
+Exams will be closed note and closed book.  Problems will be multiple choice questions but each question may require a significant amount of work.
 
 Students will be assigned seats and photo ID will be required for all exams. You will only be allowed a writing implement and a calculator.  No headphones, phones, smart watches, internet connected devices, or other material will be allowed.  All backpacks will be stored at the front or side of the classroom.  If we see a phone, we will take your exam, you will receive a zero, and you will be sent to the dean of student life.
 
@@ -91,38 +95,48 @@ The seating chart for the exam will be released on slack just before the exam to
 
 ## In-class quizzes
 
-There is a 50% chance of a quiz in each class meeting. In-class quizzes are intended to be a check on if you completed the required reading before the start of class.  They are graded on a pass/no-pass basis and will include very simple questions about the course material.  They will not be returned but a key will be provided. 
+There may be a pop quiz each class meeting. In-class quizzes are intended to be a check on if you completed the required reading and if you have reviewed the previous meetings's material. They are graded on a pass/no-pass basis and will not be returned, but a key will be provided. 
 
 While it may be tempting to avoid class because of the easy access to the lecture slides, this is typically a quick path to a low grade.
 
 ## Homework
 
-Homework will be due weekly and will turned in via D2L.  Some of the assignments will be graphics and math heavy, typically high school algebra, but avoid writing the assignments out by hand and turning in a photograph.  These are very difficult to grade.
+Homework will be due, at most, weekly and will turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function.  
+
+D2L quizzes are intended to be done online without the help of others.  
+
+If the homework is turned in through the assignment function they must be turned in as either word or pdf documents. Unreadable or corrupt files will be given a zero. 
+
+Do not write the assignments out by hand and then turn in a photo in pdf form.  D2L does not handle this well, often freezing the browser. We will simply give you a zero on the assignment if you do this.
 
 # Topics
 
 A detailed reading schedule will be announced as we progress both in class and in slack.
 
-+ Introduction to Macroeconomics (Ch 21):  There are similarities and differences between microeconomics and macroeconomics
++ What is Economics (Ch 1 and 2)
 
-+ Measuring the Economy (Ch 22 and 23): Our measurements of output, inflation and unemployment are based on surveys, sophisticated models, and even "analysis's best guess".
++ Supply and Demand (Ch 3 - 5)
 
-+ The Long-Run (Ch 24 and 25)
++ Introduction to Macroeconomics (Ch 6):  There are similarities and differences between microeconomics and macroeconomics
 
-+ The Short-Run (Ch 26 and 27)
++ Measuring the Economy (Ch 7 and 8): Our measurements of output, inflation and unemployment are based on surveys, sophisticated models, and even "analysis's best guess".
 
-+ Policy Interventions: Fiscal (Ch 28)
++ The Long-Run (Ch 9 and 10)
 
-+ Policy Interventions: Monetary and Financial (Ch 29 - 31)
++ The Short-Run (Ch 11 and 12)
 
-+ Trade and International Finance (Ch 33)
++ Policy Interventions: Fiscal (Ch 13): This is looks at how the government, mostly congress and the president, can intervene in the economy by altering taxes and government spending.
 
-+ Current Events (Ch 32)
++ Policy Interventions: Monetary and Financial (Ch 14 - 16):  This looks at how our monetary authority, the Federal Reserve, can intervene in the economy by manipulating the money supply and interest rates.
+
++ Trade and International Finance (Ch 18)
+
++ Current Events (Ch 17)
 
 
 # Other Rules
 
-+ Please be aware that federal, state, and PSU policies require faculty members to report any instances of sexual harassment, sexual violence and/or other forms of prohibited discrimination. Similarly, PSU faculty are required to file a report if they have reasonable cause to believe that a child with whom they come into contact has suffered abuse, or that any person with whom they come into contact has abused a child. If you would rather share information about these experiences with an employee who does not have these reporting responsibilities and can keep the information confidential, please contact one of the following campus resources (or visit https://www.pdx.edu/sexual-assault/get-help):
++ Please be aware that federal, state, and PSU policies require faculty members to report any instances of sexual harassment, sexual violence and/or other forms of prohibited discrimination. Similarly, PSU faculty are required to file a report if they have reasonable cause to believe that a child with whom they come into contact has suffered abuse, or that any person with whom they come into contact has abused a child. If you would rather share information about these experiences with an employee who does not have these reporting responsibilities and can keep the information confidential, please contact one of the following campus resources (or visit https://www.pdx.edu/sexual-assault/sites/www.pdx.edu.sexual-assault/files/Revised%20SA-IPVResourceHandout%20long%20version-revised%20.pdf):
 
     + Women’s Resource Center (503-725-5672)
     + Queer Resource Center (503-725-9742)
@@ -147,7 +161,7 @@ A detailed reading schedule will be announced as we progress both in class and i
     + Practice personal and academic integrity and expect it from others
     + Promote the diversity of opinions, ideas, and backgrounds, which is the lifeblood of a university
 
-    For additional information, please see the Office of Affirmative Action \& Equal Opportunity at http://www.pdx.edu/diversity/affirmative-action.
+    For additional information, please see the Office of Affirmative Action \& Equal Opportunity at https://www.pdx.edu/diversity/welcome-to-global-diversity-inclusion.
 
 
 + Accommodations are collaborative efforts between students, faculty, and the Disability Resource Center.  If you have a documented disability and require accommodation, you must arrange to meet with the course instructor prior to or within the first week of the term.  The documentation of your disability must come in writing from the Disability Resource Center (Faculty letter).  
