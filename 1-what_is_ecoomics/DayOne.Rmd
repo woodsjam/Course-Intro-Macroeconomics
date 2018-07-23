@@ -1,0 +1,236 @@
+---
+title: "Syllabus and The Class"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Plan for the Day
+
++ Walk through the syllabus
++ Walk through tools and resources
+
+## Syllabus
+
+You can find the syllabus here. (https://github.com/woodsjam/Course-Intro-Macroeconomics/blob/master/SyllabusEC202Woods.pdf
+)
+
+Almost all the slides will also be on github. (https://github.com/woodsjam/Course-Intro-Macroeconomics)
+
++ Download them before each class if you like, but they are not a substitute for coming to class.
+
+
+## Intro Macro (Official)
+
+A study of factors affecting the level of national income: the essentials of money and banking; the role of government expenditure and taxation in achieving economic stability, growth and development; international monetary issues including exchange rates and the balance of payments.
+
+## Intro Macro (Unofficial)
+
++ Talk many of you out of a business degree.
++ Convince you that economics is not **just** about money or markets
++ Make the news and politicians funnier.
++ Talk some of you into being econ majors.
++ “Every man should have a built-in automatic crap detector operating inside him. It also should have a manual drill and a crank handle in case the machine breaks down.” -- Hemingway 
+
+## Who Am I?
+
++ Ph.D. Economist, UC Davis
++ First generation college, like many of you.
++ Background in energy and program evaluation consulting going back to the early 90s.
+    + Projects were multidisciplinary. Rarely did a project not involve, economists, engineers and others.
++ Former:
+    + Oregon HECC commissioner
+    + Parkrose School Board Chair
+    + Multiple non-profit boards
+    + County Budget Committees
+    + Legislative Candidate.
++ Hobbies: Painfully Stereotypical Portlander
+
+## Key Dates
+
++ Final Exam: December 4th,	10:15-12:05
++ Midterm 1: October 18th
++ Midterm 2: November 13th
+
+Exams will be given on those days and at those times only.  I do not give make up, early or late exams. Get those on your calendars.  Make sure you are not scheduled to work or deciding to fly somewhere.
+
+DRC People:  Schedule time slots in testing center so that you start at the same time as the rest of class.
+
+## Contact Information
+
++ My office is in CH 241-O.
++ Drop in office hours are Monday 12:00-1:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ If you can’t attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 15 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points.  
+
+My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  
+
+Meetings can be via phone or even the hangout/meet function in your pdx.edu email.
+
+I will also keep Slack up during office hours to answer questions.
+
+## Slack
+
+I avoid email since it is a trash heap and a constant distraction.
+
++ The class will use slack https://PSUec202Fall2018.slack.com
++ Handles direct messages, forum style responses.
++ You should be able to sign up with your pdx.edu account
++ Can access via webpage, apps in Android and iOS.
++ Linked in d2l.
++ Officially supported PSU software
++ Common in industry
++ Many of you already use it.
+
+## Hints on Slack
+
++ Prefer #general to direct messaging me.
+    + Questions about course material is for #general
+    + Questions about your grade or anything private is for @jamie woods
++ "I can't find it anywhere" is usually answered with:
+    + A link to a google search.
++ Don't start and end with, "I got 7 but the key shows 245.  What did I do wrong?"
+    + Show your work.  The fix is often a single parameter.
++ Provide full text of the question you are working on.
+
+In short, make it easy for someone to help you.
+
+## More Slack Hints
+
++ Rants and bellyaching put you at the bottom of the queue or off the queue.
++ Night before the exam?  You are on your own.
++ Set personal Do Not Disturb times.  It it defaults to 10pm -8am
+
+
+## Textbook 
+
+Krugman, Paul R., and Robin Wells. Macroeconomics ed. 5., Worth Publishers, 2018.(ISBN-10: 1-319-09875-4).  
+
++ This textbook is amazingly overpriced.
++ Will not be assigning questions out of the book.
++ Hint: You can rent an earlier edition for  under $20 just make it line up with the 5th edition readings.
+
+## Exams
+
++ Closed book, notes, internet, friend, etc.
++ Mostly multiple choice but not, "what is the definition of .." style.
++ Seating chart
++ ID check
++ Bags, phones, smart watches at the side or front of room.
++ Many versions of the exam.
+ 
+## In-class quizzes
+
++ Could be one each class
++ Check if you completed the reading
++ Check if you reviewed earlier classes.
++ Key provided
+
+
+## Homework
+
++ At most weekly.
++ Turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function. 
++ Do not write the assignments out by hand and then turn in a photo in pdf form.
+
+
+## D2L
+
+I will assume you know how  to work D2L. 
+
++ Calendar on left
++ Links in the middle
++ Content, Quizzes and Grades up top
+
+## D2L Key Takeaways
+
++ Homework is either an "assignment" or a "quiz" depending on if the homework is written or multiple choice.
++ Both show in the calendar
++ Typically due Friday at noon.
++ At least a week notice
+
+## Assessments and Grade Policy
+
++ Final Exam (30%)
++ Midterm 1 (20%)
++ Midterm 2 (20%)
++ In-class quizzes (20%)
++ Homework (10%)
+
+## Econ Break
+
+We will look at these in greater detail later.
+
++ Principle #1: Choices are necessary because resources are scarce. 
++ Principle #2: The true cost of something is its opportunity cost. 
++ Principle #3: “How much” is a decision at the margin. 
++ Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
+
+Why did I allocate grades the way I did?
+
+## Why from My POV?
+
++ Principle #1: Choices are necessary because resources are scarce. 
+    + Had to add up to 100%
+    + Only so much time I can grade.
++ Principle #2: The true cost of something is its opportunity cost. 
+    + Focus on higher quality, in-class, information.
+    + Making sure I am giving **you** the grade and not someone else.
++ Principle #3: “How much” is a decision at the margin. 
+    + More on homework would mean less on exams or quizzes.
+    + Balanced to achieve my objective -- you knowing things and being able to do things.
++ Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
+    + I am manipulating you.
+    + What am I trying to get you to do?
+
+## Show up
+
+![](Rplot.pdf)
+
+## Do your Own Work
+
++ A few facts on scale. https://www.plagiarism.org/article/plagiarism-facts-and-stats
+
++ How easy is it to outsource your class? https://www.google.com/search?q=take+my+online+class+for+me&rlz=1C1GGRV_enUS751US753&oq=take+my+online+class+for+me&aqs=chrome..69i57.4986j0j4&sourceid=chrome&ie=UTF-8
+
+## Stop Procrastinating
+
++ Plenty of studies show that at least 2/3rds of you procrastinate.
++ Regular interaction, to create habit, is supposed to help.
+
+http://success.oregonstate.edu/learning/stop-procrastinating
+
+## What am I trying to get you to do?
+
++ Come to class.
++ Do your own work.
++ Work with the material regularly -- several times a week -- so you don't procrastinate.
+
+## Bonus Question
+
+Principle #2: The true cost of something is its opportunity cost.
+
++ Final Exam (30%)
++ Midterm 1 (20%)
++ Midterm 2 (20%)
++ In-class quizzes (20%)
++ Homework (10%)
+
+So ...
+
++ What is most important?
++ Do the 'points' fully describe the opportunity cost?
+
+## Looks like the Final but it isn't
+
++ What is the opportunity cost of not coming to class?
+    + Can't take the quiz
+    + You only get the slide version of the lecture, not the full version.
+    + Do you think you can do well on the homework and exams without attending class?
+  
+  
+The most expensive part of a meal is not always the best part. Price, the financial part, does not always indicate quality.
+
+
+
