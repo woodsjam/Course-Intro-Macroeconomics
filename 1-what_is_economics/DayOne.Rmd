@@ -327,9 +327,10 @@ I can, and do still do, read mine more than 25 years latter.
 Can your read yours from last term?
 
 Hint: Everyone in my graduate cohort created course notes from class notes. 
-    + Those are, by definition, very successful students
-    + Was done even when the weekly homework for a single class takes 20 hrs.
-    + You always have time to save time.
+
++ Those are, by definition, very successful students
++ Was done even when the weekly homework for a single class takes 20 hrs.
++ You always have time to save time.
 
 ## Course Notes are Not Study Notes
 
@@ -363,10 +364,6 @@ NOW
 + Younger student that took prerequisites a year ago, remember almost nothing.
 + Older students that took prerequisites more than 30 years ago, remember a lot more.
 
-Why:
-
-+ More Q&A in office hours
-+ Less focus on cramming for the exam.
 
 ## Get a Group
 

@@ -16,7 +16,7 @@ The official description of the course is:
 
  > A study of factors affecting the level of national income: the essentials of money and banking; the role of government expenditure and taxation in achieving economic stability, growth and development; international monetary issues including exchange rates and the balance of payments.
 
-It is my intent to give you a basket of tools that you can use after the final exam to better understand the news, your later economics courses.
+It is my intent to give you a basket of tools that you can use after the final exam to better understand the news and your other courses.
 
 
 ## Key Dates
@@ -29,7 +29,7 @@ It is my intent to give you a basket of tools that you can use after the final e
 
 Exams will be given on those days and at those times only.  I do not give make up, early or late exams.  The final is required.  You will receive a failing grade if you don't take it.
 
-If you have a DRC compensation and would normally schedule an exam in the testing center, you must schedule your exam so that it starts at the same time as the class.
+If you have a DRC compensation and would normally schedule an exam in the testing center, you should schedule your exam so that it starts at the same time as the class.
 
 ## Contact Information
 
@@ -73,7 +73,7 @@ of the term. If your inappropriate conduct is in private, a student code of cond
  
 ## D2L
 
-You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activites. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will typically be due Friday at noon and I will always give you at least a week between assignment of homework and the due date.
+You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activities. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will typically be due Friday at noon and I will always give you at least a week between assignment of homework and the due date.
 
 The course landing page will also have links to the course slack group and the slides I create for class.
 
@@ -97,7 +97,7 @@ The seating chart for the exam will be released on slack just before the exam to
 
 ## In-class quizzes
 
-There may be a pop quiz each class meeting. In-class quizzes are intended to be a check on if you completed the required reading and if you have reviewed the previous meetings's material. They are graded on a pass/no-pass basis and will not be returned, but a key will be provided. 
+There may be a pop quiz each class meeting. In-class quizzes are intended to be a check on if you completed the required reading and if you have reviewed the previous meeting's material. They are graded on a pass/no-pass basis and will not be returned, but a key will be provided. 
 
 While it may be tempting to avoid class because of the easy access to the lecture slides, this is typically a quick path to a low grade.
 
@@ -115,25 +115,25 @@ Do not write the assignments out by hand and then turn in a photo in pdf form.  
 
 A detailed reading schedule will be announced as we progress both in class and in slack.
 
-+ What is Economics (Ch 1 and 2)
++ What is Economics (Ch 1 and 2): A few simple principles go a long way. Not all costs are financial and it is often true that the best person for a job doesn't doesn't do it -- because they are even better at something else.
 
-+ Supply and Demand (Ch 3 - 5)
++ Supply and Demand (Ch 3 - 5): The big X we use to describe, perfectly competitive markets.  Also, why we try not to interfere in well functioning markets. 
 
-+ Introduction to Macroeconomics (Ch 6):  There are similarities and differences between microeconomics and macroeconomics
++ Introduction to Macroeconomics (Ch 6):  There are similarities and differences between microeconomics and macroeconomics.
 
 + Measuring the Economy (Ch 7 and 8): Our measurements of output, inflation and unemployment are based on surveys, sophisticated models, and even "analysis's best guess".
 
-+ The Long-Run (Ch 9 and 10)
++ The Long-Run (Ch 9 and 10): Why some economies grow and others don't.
 
-+ The Short-Run (Ch 11 and 12)
++ The Short-Run (Ch 11 and 12): How business cycles work. This is the setup for why and how we engage in fiscal and monetary policy.
 
-+ Policy Interventions: Fiscal (Ch 13): This is looks at how the government, mostly congress and the president, can intervene in the economy by altering taxes and government spending.
++ Policy Interventions: Fiscal (Ch 13): This is looks at how the government, mostly Congress and the President, can intervene in the economy by altering taxes and government spending.
 
 + Policy Interventions: Monetary and Financial (Ch 14 - 16):  This looks at how our monetary authority, the Federal Reserve, can intervene in the economy by manipulating the money supply and interest rates.
 
-+ Trade and International Finance (Ch 18)
++ Trade and International Finance (Ch 18):  This is about trade and exchange rates, how tariffs work and the strange connection between government budget deficits and trade deficits.
 
-+ Current Events (Ch 17)
++ Current Events (Ch 17): The book has some, but I'm pretty sure there will be plenty of macroeconomic news for us to interpret over the term.
 
 
 # Other Rules
