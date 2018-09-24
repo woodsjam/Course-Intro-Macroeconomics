@@ -262,7 +262,7 @@ The most expensive part of a meal is not always the best part. Price, the financ
 + Sahan Dissanayake: How to preserve forrests and farmland
 + John Gallup: Estimating income inequality when data is not great
 + John Hall: Heterodox
-+ Giro Ito: Trade imbalances and key currencies, and resiliency after natural disasters.
++ Hiro Ito: Trade imbalances and key currencies, and resiliency after natural disasters.
 
 ## More local economists
 
@@ -287,9 +287,9 @@ How to Study: Hints from a successful student
 
 + If you only write down what I write or what is on the slides -- you are not taking notes.
 + The things I say are important too
-    + If it wasn't why come to class?
+    + If it wasn't, why come to class?
     + I could post the slides
-    + Better put them up and set a 1 min slide advance
+    + Better, put them up and set a 1 min slide advance
 
 ## What Should be in Your Class Notes
 

@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + Always beyond the direct financial.
 + Often the financial is hidden
 
-"I love sour dough bread.  I don't eat it not because it is expensive, but because it makes me sleepy and have to spend more time at the gym." -- Jamie
+"I love sourdough bread.  I don't eat it, not because it is expensive, but because it makes me sleepy and have to spend more time at the gym." -- Jamie
 
 ## Principle 3: “How much” is a decision at the margin. 
 
@@ -68,7 +68,7 @@ A key goal in designing incentive systems to align individual self-interest with
 ## Principle #5:  There are gains from trade
 
 + This is why we split chores
-+ Why we being totally "self-sufficent", producing all your needs, makes you miserable.
++ Why being totally, "self-sufficent", producing all your needs, makes you miserable.
 + Says possible but not always true for everything and only if voluntary.
 
 "It is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy...What is prudence in the conduct of every private family, can scarce be folly in that of a great kingdom." -- Adam Smith
@@ -93,7 +93,7 @@ This is what allows us to predict future events.
 
 ## Principle #8: Markets usually lead to efficency.
 
-+ Markets are a large distributed information processing:
++ Markets are good at distributed information processing:
     + Information about needs and costs to satisfy needs are communicated with prices, bids and ask.
     + Prices also transfer resources needed to satisfy the need.
 + Similar to your body handles needs.  Blood transports information and resources.
@@ -106,14 +106,16 @@ This is what allows us to predict future events.
 
 ## Macro Principles 
 Principle #10: One person’s spending is another person’s income. 
+
 Principle #11: Overall spending sometimes gets out of line with the economy’s productive capacity. 
+
 Principle #12: Government policies can change spending. 
 
 ## Principle #10: One person’s spending is another person’s income. 
 
 + Critical insight in macroeconomics.
 + Remember "Principle #5: There are gains from trade"?
-+ When you decrease your spending, by say savings, the income earned by others from your spending falls.
++ When you decrease your spending by, say, savings, the income earned by others from your spending falls.
 
 This should remind you of a food chain.  Every species is food for another.
 
@@ -130,7 +132,7 @@ This should remind you of a food chain.  Every species is food for another.
 
 + See:
     + Principle #11: Overall spending sometimes gets out of line with the economy’s productive capacity.
-    + Principle 4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
+    + Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
 
 
 Economists are  the most manipulative non-sociopaths you will meet.    
