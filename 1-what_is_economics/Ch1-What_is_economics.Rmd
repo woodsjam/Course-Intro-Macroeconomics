@@ -18,6 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + Principle #1: Choices are necessary because resources are scarce. 
 + Principle #2: The true cost of something is its opportunity cost. 
 + Principle #3: “How much” is a decision at the margin. 
+
 + Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
 
 ## Principle 1: Choices are necessary because resources are scarce.
@@ -135,5 +136,5 @@ This should remind you of a food chain.  Every species is food for another.
     + Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
 
 
-Economists are  the most manipulative non-sociopaths you will meet.    
+Economists are the most manipulative non-sociopaths you will meet.    
 
