@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + Positive vs Normative
 + Lets all get together and disagree.
 
-## Details on Terms of Trade
+## Details on Gains from Trade
 
 Goal: Show that by specializing and engaging in trade that we can make everyone better off -- or at least not worse off.
 
@@ -59,7 +59,7 @@ Paper Airplanes vs Plastic Model Airplanes
 
 Production Possibilities Sets (PPS) or Production Possibilities Frontiers (PPF)
 
-PPS: The set of call combinations of goods that can be produced with the available *resources* and existing *technology*.
+PPS: The set of all combinations of "goods" that can be produced with the available *resources* and existing *technology*.
 
 + There are two words of art, "resources" and "technology"
 + Econ use and general public use of some words differs a lot.
@@ -75,7 +75,7 @@ Examples:
 + Attention
 + Eggs
 
-## Techology
+## Technology
 
 Technology: The method used to create outputs
 
@@ -113,7 +113,7 @@ We have a graphical limitations -- 2 dimensional board
     + On the frontier means you can make that combination but you have run out of at *least one* resource. (Feasible and "efficient")
     + Outside the set means you can't make the combination with existing  technology. (Not Feasible)
 
-"Efficient" has many meanings to economists.  In this case it means you can can only make more of one good by making less of other goods.
+"Efficient" has many meanings to economists.  In this case it means you can't make more of one good without making less of other goods.
 
 ## Lets talk "Opportunity Cost"
 
@@ -151,12 +151,12 @@ This is Principle 3: “How much” is a decision at the margin.
 
 ## How the shapes arise?
 
-+ Decreasing:
++ Increasing:
     + Most common BTW
     + Nature of process (gathering)
     + Bottleneck resources
     + Input quality changes
-+ Increasing:
++ Decreasing:
     + Nature of process (Starting an avalanche)
     + Gains from Specialization
     + Sunk cost
@@ -184,7 +184,7 @@ This is the usual categorization of factors of production
 
 + Land: Natural resources, minerals, oil, natural gas, and actual land. Non-manufactured
 + Labor: People doing things with brains, hands and feet.
-+ Physical Capital: Manufactured things use dot produce other things.  Often  these are the embodiment of technology changes.
++ Physical Capital: Manufactured things use to produce other things.  Often  these are the embodiment of technology changes.
 + Human Capital: Skills of labor.  Another way that technological change is embodied.
 
 
@@ -334,7 +334,7 @@ Agents  |Rooms    | Meals |
 Breeze  |2        |2      |
 Jamie   |4        |6      |
 
-## Arithmatic Way
+## Arithmetic Way
 
 Breeze
 
@@ -349,7 +349,7 @@ $$ 4~Rooms = 6~Meals$$
 + $1 ~Room = \frac{6}{4}~ Meal$
 + $\frac{4}{6} ~Room =  1 ~Meal$
 
-## Algabra/Calc
+## Algebra/Calc
 
 Jamie
 
