@@ -1,0 +1,10 @@
+---
+title: "Economic Models: Trade-offs and Trade"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+

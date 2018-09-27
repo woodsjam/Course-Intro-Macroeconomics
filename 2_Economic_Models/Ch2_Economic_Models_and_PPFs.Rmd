@@ -453,7 +453,7 @@ It doesn't tell you what happens because it bad at predicting that.  You get tha
 
 + Principle #7: Resources should be used efficiently to achieve society's goals
 
-Principle #8: Markets usually lead to efficiency.
++ Principle #8: Markets usually lead to efficiency.
 
 ## Another Partial Model
 
@@ -532,3 +532,7 @@ If you want to predict unemployment:
 + You need a model
 + The model will require data to calibrate it and you may have data that others do not.  
 + You also need to predict what Congress and the Fed are going to do, etc.
+
+##
+
+Fin

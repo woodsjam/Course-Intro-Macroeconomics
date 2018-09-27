@@ -48,7 +48,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + A little more of this for a little less of that.
 + Most often violated through "The sunk cost fallacy"
 
-"No matter how far you've gone down the wrong road, turn back." -- Tradional Turkish Proverb (Sunk Cost Fallacy)
+"No matter how far you've gone down the wrong road, turn back." -- Traditional Turkish Proverb (Sunk Cost Fallacy)
 
 ## Principle 4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
 
@@ -62,14 +62,14 @@ A key goal in designing incentive systems to align individual self-interest with
 
 + Principle #5: There are gains from trade
 + Principle #6: Markets move toward equilibrium
-+ Principle #7: Resources should be used efficienty to achive society's goals
-+ Principle #8: Markets usually lead to efficency.
++ Principle #7: Resources should be used efficiency to achieve society's goals
++ Principle #8: Markets usually lead to efficiency.
 
 
 ## Principle #5:  There are gains from trade
 
 + This is why we split chores
-+ Why being totally, "self-sufficent", producing all your needs, makes you miserable.
++ Why being totally, "self-sufficient", producing all your needs, makes you miserable.
 + Says possible but not always true for everything and only if voluntary.
 
 "It is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy...What is prudence in the conduct of every private family, can scarce be folly in that of a great kingdom." -- Adam Smith
@@ -82,7 +82,7 @@ A key goal in designing incentive systems to align individual self-interest with
 This is what allows us to predict future events.
 
 
-## Principle #7: Resources should be used efficienty to achive society's goals
+## Principle #7: Resources should be used efficiently to achieve society's goals
 
 **Efficently**: Has many different meanings.
 
@@ -90,9 +90,9 @@ This is what allows us to predict future events.
 + Can't make someone better off without making someone worse off.
 + Gets complicated after that.
     
-"I will definitly help you if it doesn't harm me, but I will often help when the harm to me is less than the benfit to you" -- Jamie    
+"I will definitely help you if it doesn't harm me, but I will often help when the harm to me is less than the benefit to you" -- Jamie    
 
-## Principle #8: Markets usually lead to efficency.
+## Principle #8: Markets usually lead to .
 
 + Markets are good at distributed information processing:
     + Information about needs and costs to satisfy needs are communicated with prices, bids and ask.
@@ -102,7 +102,7 @@ This is what allows us to predict future events.
     + Sometimes markets don't work.
     + Sometimes governments need in modify market rules to make them work better. See Principle 4
     
-"In Republican adminstrations, it is the economists job to explain that sometimes markets don't work.  In Democratic, that sometimes markets do work"  -- Severin Borenstein, Economist
+"In Republican administrations, it is the economists job to explain that sometimes markets don't work.  In Democratic, that sometimes markets do work"  -- Severin Borenstein, Economist
 
 
 ## Macro Principles 
