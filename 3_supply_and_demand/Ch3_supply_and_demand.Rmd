@@ -91,7 +91,7 @@ There are exceptions:
 ## Supply
 
 + Similar description to supply but this is about sellers.
-+ The relationship between price and quantity supplied, e.g., is direct, when one goes up, so does the other.
++ The relationship between price and quantity supplied is direct, i.e.,  when one goes up, so does the other.
 
 
 ## Lets Put The Functions in a Perfectly Competitive Market
@@ -227,3 +227,4 @@ We will work on the consequences of things like this later in the course.
 
 We will look at what happens when you start taxing goods or putting restrictions on how much can be bought or sold.
 
+Get started on Chapter 4 for the next class.
