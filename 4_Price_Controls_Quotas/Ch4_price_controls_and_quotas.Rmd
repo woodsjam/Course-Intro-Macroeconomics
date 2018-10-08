@@ -32,7 +32,7 @@ But ...
 
 + Markets that are non-competitive in some way
     + Low skill - low wage labor, minimum wage laws (Economists are split on this but evidence is coming in)
-    + Labor markets in general (There may be few buyers and buyers may have more income)
+    + Labor markets in general (There may be few buyers and buyers may have more information)
     + Monopoly power, internet service etc.
 + When there are externalities
     + Pollution, congestion and the like, but other mechanisms often work better
