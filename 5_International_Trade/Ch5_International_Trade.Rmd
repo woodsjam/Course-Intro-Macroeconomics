@@ -1,0 +1,31 @@
+---
+title: "Ch 5: International Trade"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## We Talked A Little About Trade   
+
+We talked about the basis for trade, differences in opportunity costs, but we need to expand on that idea.
+
+
+Rough Outline:
+
+How compartive advantage
+  Difference in factor endowments 
+  Heckscher–Ohlin theorem (Does not perform well acccross countries but does within.)
+  Rybczynski Theorm says if you get more of an input you will have a more than porportional increase in production of good that uses that input.
+  But, Stolper-Samuelson says that goods prices drives factor prices.
+  Factor Price equalization theorm says that even without factor mobility, factor prices will equalize. (But only seems to hold when the countries are similar)
+  
+  
+  Make supply and demand  graphs side by side, world vs domestic market.  
+  
+  If world lower, import.  If world higher, export.
+  
+  
+  
+  Add CS and PS
