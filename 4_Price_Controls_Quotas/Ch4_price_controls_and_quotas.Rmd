@@ -7,7 +7,7 @@ output: beamer_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## What are we talking about
+## What are We Talking About
 
 + Price Ceilings and Floors
     + *Legal* minimum or maximum price
@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
         + Minimum purchase or sale (Auto Insurance)
         + Maximum purchase quantity (See local ganja store for example)
 
-## A few warnings
+## A Few Warnings
 
 + This is about messing with well functioning, perfectly competitive markets. 
 + You generally don't want to touch those.
@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 But ...
 
-## We Should if they are not
+## We Should if They are Not
 
 + Markets that are non-competitive in some way
     + Low skill - low wage labor, minimum wage laws (Economists are split on this but evidence is coming in)
@@ -39,7 +39,7 @@ But ...
     + Common resource like fishing.  Again, different approaches may be better.
     
     
-## We Do mess with markets for other reasons
+## We Do Mess with Markets for Other Reasons
 
 + Critical industry (Argument currently in use for auto tariffs and price floors on milk)
 + Infant industry (Just let it grow so we don't have to import)
@@ -106,7 +106,7 @@ Anne was trying to move to Berkeley and I tried to help.
     + Waiting for a non-price allocation mechanism to kick in.
 
 
-## Real Example: Airlines before Deregulation
+## Real Example: Airlines Before Deregulation
 
 + Many don't get to sell
 + Some get imperfect substitutes -- Bus and car.
