@@ -221,11 +221,44 @@ Principle 4: People usually respond to incentives, exploiting opportunities to m
 
 ## What Can You Do
 
++ Non-Tariff Barriers -- Lots of things
 + Tariffs -- Tax on Imports or Exports
 + Quotas  -- Limitations on Imports or Exports
-+ Non-Tariff Barriers -- Lots of things
+
+
 
 ## Non-Tariff Barriers
+
+This is the most diverse category it includes things like:
+
++ Health and safety standards (Generally resolved by setting joint standards)
++ Bureaucratic delays
++ Packaging and labeling standards
+    + NAFTA required French, English and Spanish for some goods.
+    + Notice the stuck on nutritional labels
++ Local content requirements (WTO goes after this if it gets out of hand.  There are exceptions.)
++ ...
+
+
+## Generally
+
+WTO is a huge body of international law negotiated, starting in 1947, by more than 100 countries that cover trade. There are a few key ideas:
+
++ MFN Rule:  Treat everyone the same.  You give a concession to one member, you give it to all.
++ Treat foreign the same as domestic.
++ Binding and transparent agreements
++ Safety valves.  There are exceptions and ways to trigger them.
+
+There is a reason that international trade is a specialty area for economists.  There are at least 60 treaties.
+
+## Why Impose a Tariff 
+
++ Originally, it was one of the few really effective ways to collect tax revenue.
+    + Ports were limited.
+    + Charge people for stuff coming off boats or as they crossed one of few roads
++ Modern use is either more manipulative or aimed at 'level playing fields'
+
+
 
 ## Import Tariff
 
@@ -279,3 +312,27 @@ Clearly, domestic producers and those that work in the industry are in favor, bu
     + Loss to consumers that can no longer afford the good: A
 
 The quota rent goes to somebody.  Sometimes it is an import firm, sometimes a foreign firm, sometimes a foreign government.
+
+
+## A few Things to Note
+
++ Imposing a tariff or a quota, does help an industry and the workers in that industry.
++ Probably hurts consumers.
++ Having a tariff imposed on you will hurt your industry.  Check soybeans recently?
+
+
+## Story of A Tariff
+
++ Great Depression was just getting started....  October 1929
++ Senators Smoot (Utah) and Hawley (Oregon) say we have an idea:
+    + Lets increase agricultural tariffs and decrease industrial tariffs.
+    + Others say, "Better idea. Lets increase all tariffs"
+    + March 1930
++ Then May 1930
+    + 1000+ economists sign letter asking to please veto
+    + Bankers and others beg for it not to be done.
+    + Signed into law June 1930
++ Retaliatory tariffs the world over 
+
+
+The Smoot-Hawley Tariff is what made the Great Depression "Great"
