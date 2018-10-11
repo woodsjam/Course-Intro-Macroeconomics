@@ -137,11 +137,6 @@ In short, the unconstrained party, buyer or seller, bids the price up or down.
 ![](StartConstraints.png)
 
 
-## Summary of Quantity Ceiling
+## Next
 
-+ Again, price could be high or low depending on who is constrained, who has limits.
-    + If buyers are limited, price is low
-    + If sellers are limited, price is high
-
-Again, the unconstrained party, buyer or seller, bids the price up or down.
-
+Lets take a look at international trade.  We will see some constrained markets there.
