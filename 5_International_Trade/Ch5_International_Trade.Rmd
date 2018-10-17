@@ -17,8 +17,8 @@ We talked about the basis for trade, differences in opportunity costs, but we ne
 + They all have some limited support
 + None really explains everything
     + Some are good at intra(inside)national trade
-    + some are good at peer-to-peer international trade
-    + Some are good at everything but final goods
+    + Some are good at peer-to-peer international trade
+    + Some are good at final goods, but not intermediate goods.
     
     
 ## We are Sticking to Heckscher–Ohlin
@@ -209,7 +209,7 @@ If ROW > Domestic
 
 + Sellers want to export
 + People that work in export industry want to export
-+ Consumes want to keep the low domestic prices and don't want to export.
++ Consumers want to keep the low domestic prices and don't want to export.
 
 If ROW < Domestic
 
