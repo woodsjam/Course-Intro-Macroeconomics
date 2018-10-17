@@ -1,0 +1,35 @@
+---
+title: "Ch 6: Macro"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
++ Macroeconmoics sum more than parts.  Immergent properties
++ Contrast great depression  and recession.  Answer, same track but we pulled out after about 15 months, something we didn't do for the depression
++ What is a business cycle
++ Trough to peak.  
++ Who declares
++ History of declarations, what did they look at ?
+
+Install alfred so I can easiliy put data in slides
+
+We use different models to think about long term growth and short term fluctuations
+
+Inflation and deflation why do we get them
+What are the different pains.  Why we like stability.
+
+```{r}
+library(alfred)
+library(ggplot2)
+library(dplyr)
+
+get_alfred_series("CPIAUCSL") %>%
+  filter(realtime_period == "1994-03-16")%>%
+  ggplot(aes(y =CPIAUCSL, x = date)) +
+  geom_line()
+
+```
+
