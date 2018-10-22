@@ -199,7 +199,7 @@ Accusations of politicization.
 ## This is Why We have Release Schedules
 
 + All dates are known a year ahead of time
-+ Restricted access to pre-rease data
++ Restricted access to pre-release data
 + No public commentary till 1hr before
 
 Trump violated this in [**June 2018**](https://www.wsj.com/articles/trump-says-he-is-looking-forward-to-jobs-report-1527855202)
@@ -237,27 +237,299 @@ Currently:
 + [**Latest Release**](https://www.bls.gov/news.release/empsit.nr0.htm)
 + [**The Alternative Measures**](https://www.bls.gov/news.release/empsit.t15.htm)
 
+## GDP and CPI Are Bound Together
+
+Gross Domestic Product (GDP) is suppose to be a measure how much we produce.
+
++ Don't read more into it.
++ It is not well-being
++ It combines goods and bads
+
+
+Consumer Price Index (CPI) is suppose to measure how expensive things are.
+
++ Everyone buys different things.
++ Everyone adapts when prices change.
++ We buy things that last for years.  You have to figure out how to spread that out over time.
+
+## There is a Fundimental Problem
+
+Average usually means adding things up and dividing by the number of things.
+
++ You can't add apples, oranges and movies together.
++ You can't add the prices of rent, vitamins and plane trips.
+
+There is a whole area of study on indexes that solves these problems.
+
+## The idea
+
+Goods   | $Production_0$  | $Price_0$ | $Production_1$  | $Price_1$ | 
+---     |---              |---        |---              | ---       |
+Apple   | 100             | 1         | 50             | 3         |
+Coffee  | 50              | 2         | 40             | 4         |
+
+We can observe the individual production of goods and we can observe the individual prices.
+
+## Index Theory for Output
+
+Goods   | $Production_0$  | $Price_0$ |  $Production_0 * Price_0$   | 
+---     |---              |---        |---                         | 
+Apple   | 100             | 1         | 100                         |
+Coffee  | 50              | 2         | 100                            |
+
+
++ Measure output by the market value of the goods.
++ Price times output and add them up.
++ In this case $200.
+
+Problem:  Prices could, will, change too.  You can have actual production go down and prices go up and it looks like more output.
+
+## Like this
+
+Goods   | $Production_1$  | $Price_1$ |  $Production_1 * Price_1$   | 
+---     |---              |---        |---                         | 
+Apple   | 50            | 3         | 150                         |
+Coffee  | 40              | 4         | 160                            |
+
++ Note production fell for both goods.
++ Prices increased for both goods.
++ But the value of the the output increased from \$200 to \$310.
+
+## Solution? Control for Price Changes
+
+Goods   | $Production_1$  | $Price_1$ |  $Production_1 * Price_0$   | 
+---     |---              |---        |---                         | 
+Apple   | 50            | 1         | 50                         |
+Coffee  | 40              | 2         | 80                            |
+
++ Hold prices as they were in the base year
++ Weight output the same way you did in the base year.
++ Now you can  see that output, production, actually went down.
+
+To measure output changes, you hold prices constant.
+
+
+## There is a Similar Problem with Prices
+
++ People react to price changes.  They buy more as they get cheaper and less as they get more expensive.
++ Check pork prices in the grocery store.
+    + Reciprocal tariffs hit the pork producers.
+    + They can't sell as much abroad as before.
+    + They sell it here for lower prices.
+    + The guy at Winco said it was walking out the door.
+    
+When measuring prices, you need to hold production constant.
+
+##  Try Buying all the Production
+
+Goods   | $Production_0$  | $Price_1$ |  $Production_0 * Price_1$   | 
+---     |---              |---        |---                         | 
+Apple   | 100             | 3         | 300                         |
+Coffee  | 50              | 4         | 200                            |
+
+Note that in year zero, you could buy all production for \$200 and now to buy the same, year zero, production it costs \$500.  
+
+## In Short
+
++ We try to measure output by holding prices constant.  We call this real GDP.
++ We try to measure prices by buying a fixed market basket.
+    + We have a lot of price indexes.
+    + The most common is CPI, which covers consumer prices.
 
 ## The CPI
 
 + It is older than our GDP measures
 + It is older than our unemployment measures
 + Goes back to 1913
-+ It is embeded in law and is not revised when new data is available.
++ It is embedded in law and is not revised when new data is available.
+
+## What Do We Put in the Market Basket?
+
+We put in what we observe people buying
+
++ The Consumer Expenditure Survey
+    + Purchase diary
+    + Receipts
+    + Quarterly interviews for big purchases
+    
+[**Here is the lastest**](https://www.bls.gov/cex/tables.htm#avgexp) by age.  We don't use them this way in the CPI but it is fun.
+
+## We Keep Separate Market Baskets
+
++ CPI-U: All urban workers
++ CPI-W: Urban wage and clerical workers.  Narrower than U
++ CPI-E: Elderly
+
+We also often report out the indexes without food and energy and call it *core*.
+
+## Why Core?
+
++ It is not that we don't think that food and energy are important.
++ CPI is one of the few measures **not** revised when new data arrive.
+    + It is built into laws about social security, tax brackets.
+    + Contracts with escalator clauses.
++ Food and Energy
+    + Follow the same trend as other prices
+    + But they are more volatile.
++ Leaving out food and energy
+    + Removes volatility
+    + Keeps the trend (We hope)
+    
+## See! Seasonally Adjusted.    
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(alfred)
+library(tidyr)
+
+CPIU <- get_alfred_series("CPIAUCSL") %>%
+  filter(date > '2000-01-01',
+         realtime_period == max(realtime_period))%>%
+  mutate(CPI = 100* (CPIAUCSL - lag(CPIAUCSL))/lag(CPIAUCSL))
+
+CPIUCore <- get_alfred_series("CPILFESL") %>%
+  filter(date > '2000-01-01',
+         realtime_period == max(realtime_period)) %>%
+    mutate(Core = 100* (CPILFESL - lag(CPILFESL))/lag(CPILFESL))
+
+CPIU %>%
+  left_join(CPIUCore, by = "date") %>%
+  select(date, CPI, Core) %>%
+  gather(key,value, CPI, Core) %>%
+    ggplot(aes(x=date, y=value, colour=key)) +
+    geom_line() + xlab("Year") + ylab("Monthly Inflation (%)")
+  
+
+```
+
+## How We do the Price Survey
+
+"Prices are collected each month in 75 urban areas across the country from about 5,000 housing units and approximately 22,000 retail establishments (department stores, supermarkets, hospitals, filling stations, and other types of stores and service establishments)."
+
++ We adjust the basked every 2 years
++ We have a separate measure, chained CPI, that changes the basket every month.
 
 
-## The Fundimental Problem
+[**Here is the lastest press release**](https://www.bls.gov/news.release/cpi.nr0.htm)
 
-How do you find average prices?
+## Everything From A Survey Has Uncertainty
 
-+ 
+"1-month change of 0.2 percent in the all items CPI-U, we are 95 percent confident that the actual percent change based on all retail prices would fall between 0.14 and
+0.26 percent""
 
-<!-- + Macroeconmoics sum more than parts.  Immergent properties -->
-<!-- + Contrast great depression  and recession.  Answer, same track but we pulled out after about 15 months, something we didn't do for the depression -->
-<!-- + What is a business cycle -->
-<!-- + Trough to peak.   -->
-<!-- + Who declares -->
-<!-- + History of declarations, what did they look at ? -->
+## GDP is the most complex
+
+It uses data from all over the place
+
++ Tax receipts
++ Economic census 
++ Census of Population and Housing
++ Everything
+
+When a country looks for international help, setting up this kind of tracking system is one of the first tasks.
+
+## Revised When we Get More Data
+
+[**Here is the latest press release](https://www.bea.gov/system/files/2018-09/gdp2q18_3rd_3.pdf)
+
+Note the following helpful table
+
+Vintage   | Average Revision  |
+---       |---                |
+Advance to second| 0.5|
+Advance to third| 0.6|
+Second to third| 0.2|
+Advance to latest| 1.3|
+
+In other words if you see 4.2% annualized growth reported, on average it will be in 2.9% - 5.5% range.
+
+## The Data
+
++ This is an overview of the data we use.
++ Now lets talk about macro theory.
+
+## Macro is more than the sum of the parts
+
++ Another phrase for that is "emergence"
+    + Book talks about traffic waves.
+    + Temperature can't be inferred from properties of molecules
+    + Nor sound or music or convection
++ Emergence is the result of interactions of simple rules, that yield complex phenomena or behavior.
++ Emergence is why
+    + People with intuition on the emergent behavior in household or businesses, get economy-wide ideas wrong.
+    + There is a whole new level of emergence after individual households and business.
+
+[**A favorite physical example**](https://www.youtube.com/embed/hns4MUu3nao)
+
+## Macro has a focus on policy interventions
+
++ What to do when something is wrong?
++ How to keep something from going wrong?
++ The usual names are:
+    + Fiscal policy, which covers government tax and expenditure policy, including rules and incentives.
+    + Monetary policy, which covers control and manipulation of the amount of money in the economy and  interest rates.
+    + Some economists add, Financial policy, which covers how we handle payments systems and markets for investments, loans and transactions.
+
+
+## Good Thing We Learned From Great Depression
+
+![](orourke%20fig%201.JPG)
+
+Source: Eichengreen and O'Rourke (2009), updated with data graciously provided by the IMF.
+
+## What is a Business Cycle?
+
+It is a generalized slowdown in economic activity across many sectors.
+
++ Some countries have a two quarter decline in real GDP growth as a standard
++ We allow the National Bureau of Economic Research (NBER) Business cycle dating committee to make the call.
+    + The US economy is very diverse
+    + Different sectors respond at different rates
+    + Some sectors go up when others go down
++ NBER tells that a recess started and ended, but does so with a lag.
+    
+## The Parts
+
+![](krugmacro5e_fig_6_03.png)
+
+## The Lags
+
+
+Turning Point Date|	Peak or Trough|	Announcement Date|
+---               |---            |---                |
+June 2009|	Trough|	September 20, 2010|
+December 2007|	Peak|	December 1, 2008|
+November 2001|	Trough|	July 17, 2003|
+March 2001|	Peak|	November 26, 2001|
+March 1991|	Trough|	December 22, 1992|
+July 1990|	Peak|	April 25, 1991|
+November 1982|	Trough|	July 8, 1983|
+July 1981|	Peak|	January 6, 1982|
+July 1980|	Trough|	July 8, 1981|
+January 1980|	Peak|	June 3, 1980|
+
+## We Try to Avoid Recessions
+
++ Remember when we talked about unemployment and hardship?
+    + Unemployment wasn't the only issue in hardship
+    + Income too.
++ Recessions provide hardships besides simple income
+    + Can harm your human capital
+    + Businesses fail
+    + Your physical capital is worth less
+    
+## Business Cycles are Also Associated with Inflation Changes
+
++ Inflation harms some and benefits others
++ We will talk about this more later.
+
+## Remember that Our Models are All Incomplete
+
++ Why we will use some models for business cycles
++ Others for long-term growth.
+
+## Next up
+
+Ch 7 A deeper dive into GDP and CPI.
 
 <!-- We use different models to think about long term growth and short term fluctuations -->
 
