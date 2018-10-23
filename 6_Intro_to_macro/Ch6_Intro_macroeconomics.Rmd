@@ -31,7 +31,7 @@ LatestInflation <- get_alfred_series("CPALTT01USM659N") %>% last() %>% last()
 
 ```
 + Unemployment Rate Last Month: `r LatestUnemployment`\%
-+ GDP Growth (From Previous Quarter Annualized): `r LatestGDPGrowth`\%
++ Real GDP Growth (From Previous Quarter Annualized): `r LatestGDPGrowth`\%
 + CPI-U Inflation Last Month (From Previous Year): `r round(LatestInflation,2)`\%
 
 Lets get today's numbers in context with the past
@@ -161,7 +161,7 @@ There are wide swings in employment, much Agriculture driven (1/5 work force the
     + Available to work in last 4 weeks.
     + Defined employed as 1 hr of pay or profit
 + Concerns about automation
-    + Ask whey they were not looking.
+    + Ask why they were not looking.
     
 ## Gorden Committee (Con't)
 
@@ -252,7 +252,7 @@ Consumer Price Index (CPI) is suppose to measure how expensive things are.
 + Everyone adapts when prices change.
 + We buy things that last for years.  You have to figure out how to spread that out over time.
 
-## There is a Fundimental Problem
+## There is a Fundamental Problem
 
 Average usually means adding things up and dividing by the number of things.
 
@@ -405,7 +405,7 @@ CPIU %>%
 
 "Prices are collected each month in 75 urban areas across the country from about 5,000 housing units and approximately 22,000 retail establishments (department stores, supermarkets, hospitals, filling stations, and other types of stores and service establishments)."
 
-+ We adjust the basked every 2 years
++ We adjust the basket every 2 years
 + We have a separate measure, chained CPI, that changes the basket every month.
 
 
@@ -485,7 +485,7 @@ It is a generalized slowdown in economic activity across many sectors.
     + The US economy is very diverse
     + Different sectors respond at different rates
     + Some sectors go up when others go down
-+ NBER tells that a recess started and ended, but does so with a lag.
++ NBER tells that a recession started and ended, but does so with a lag.
     
 ## The Parts
 
@@ -531,7 +531,3 @@ January 1980|	Peak|	June 3, 1980|
 
 Ch 7 A deeper dive into GDP and CPI.
 
-<!-- We use different models to think about long term growth and short term fluctuations -->
-
-<!-- Inflation and deflation why do we get them -->
-<!-- What are the different pains.  Why we like stability. -->
