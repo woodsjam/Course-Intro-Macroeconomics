@@ -33,10 +33,10 @@ The total value of all final goods and services produced in an economy during a 
 
 ## Final?
 
-Yes, some businesss produce goods that are used by other businesses to produce goods.
+Yes, some business produce goods that are used by other businesses to produce goods.
 
 + We only count the last, final, good.
-+ Avoids double counting and having number that change when firms are virtically integrated vs not.
++ Avoids double counting and having number that change when firms are vertically integrated vs not.
 
 ## Example of Double Counting
 
@@ -52,7 +52,7 @@ Note that the end product is the same wrench.
 
 ## GDP is Broken Into a Few Parts
 
-+ Goverment (G): This includes all purchases by all level of government including mosquito abatement districts.
++ Government (G): This includes all purchases by all level of government including mosquito abatement districts.
 
 + Consumer Spending (C): Almost everything you and I buy except new, not existing,  houses.
 
@@ -68,7 +68,7 @@ $$GDP = C + I + G - M + X$$
 ## A Few Key Definitional Issues
 
 + Non-market goods don't count.
-+ Governemnts do not *invest* in the GDP sense. If a government buys a new building it is G.  If a business or individual buys a new building it is I.
++ Governments do not *invest* in the GDP sense. If a government buys a new building it is G.  If a business or individual buys a new building it is I.
 + Buying stocks and the like is not investment in the GDP sense of I.
 + The only I that households do is new houses.
 + Exports and imports includes intermediate goods.
@@ -92,7 +92,7 @@ It is about what happens in the marketplace.  Home production does not count.
 
 A *new* building gets purchased
 
-+ If governement buys it then G.
++ If government buys it then G.
 + If a business buys it then I.
 + If a person buys it then I.
 
@@ -101,9 +101,9 @@ A *new* building gets purchased
 Buy some stock 
 
 + The purchase is not part of GDP, but
-    + The fees and commisions can be part of GDP
+    + The fees and commissions can be part of GDP
     + Buy $100 of stock with $10 commission
-    + The $10 commision is a service.
+    + The $10 commission is a service.
 + If
     + Government buys then $10 increase in G and GDP.
     + If business buys then no change in GDP (Intermediate good)
@@ -112,9 +112,9 @@ Buy some stock
 
 ## Buying Existing Houses
 
-The 100K house is not, since produced in previous year, but the 10K in services required to buy the house, realator, title search are:
+The 100K house is not, since produced in previous year, but the 10K in services required to buy the house, Realtor, title search are:
 
-+ If governement buys it 10K in G.
++ If government buys it 10K in G.
 + If a business buys it then nothing (intermediate good).
 + If a person buys it then 10K in C.
 
@@ -192,14 +192,23 @@ Clear as Mud yet?
 
 ## So, in summary
 
-+ Only this years production can change GDP
-+ Previous years production doesn not alter GDP but can change the composition.
++ Only this year's production can change GDP
++ Previous year's production doesn't not alter GDP but can change the composition.
 + G is always G
 + Business expenditures are not part of GDP unless they are investments or inventory, then I.
 + Used goods are not part of GDP but the transaction services are.
 + Houses are usually valued by imputed rental services.
 + All exports, even intermediate goods, are GDP.
 + All imports, even intermediate goods, are subtracted from GDP.
+
+## Real vs Nominal
+
++ Nominal (current price) GDP is as described.
++ Real GDP (controlling for prices) is way more complicated than described in the book.
+    + It used to work that way.
+    + It is now an average of several base years
+
+It is still best to think of real GDP  and real GDP growth as controlling for price changes.    
 
 
 ## Interpreting GDP and GDP Growth
@@ -211,8 +220,8 @@ Clear as Mud yet?
 
 Economists do not screw this up but [**others**](https://www.cnbc.com/2017/09/08/feds-dudley-hurricanes-will-boost-economic-activity-over-the-long-run.html) do. 
 
-+ GDP is a flow measure, $/year, like galons per minute into a tub.
-+ Wealth is a stock measure, $, like galons in a tub.
++ GDP is a flow measure, $/year, like gallons per minute into a tub.
++ Wealth is a stock measure, $, like gallons in a tub.
 
 If a disaster hits:
 
@@ -226,14 +235,17 @@ Death, mayhem, earthquakes, all increase GDP but not our well being, but we gene
 
 ## The Major Missing Parts
 
-+ Externalities -- polution, climate change, weiting in trafic.  Only count if you try to fix them.
++ Externalities -- pollution, climate change, waiting in tragic.  Only count if you try to fix them.
 + Non-Market Transaction -- Household production.
 + Quality Improvements.
 + Sustainability -- Cut down some trees good. Cut down all the trees bad.
 
-## Any Alternatives
+You can read a critique [here](https://www.economist.com/finance-and-economics/2018/05/03/economists-focus-too-little-on-what-people-really-care-about?fsrc=scn/fb/te/bl/ed/economistsfocustoolittleonwhatpeoplereallycareaboutfreeexchangetheworthofnations).  It is pithy and overstates.  Economists know all the problems.  We warned others about them and use them the right way, but non-economists keep misusing them.
 
-If you want to use a GDP type measure for wellbeing, yes.
+
+## Any Alternatives?
+
+If you want to use a GDP type measure for well-being, yes.
 
 + [World Happiness Report](http://worldhappiness.report/)
 + [OECD Better Life Index](http://www.oecdbetterlifeindex.org/)
@@ -241,7 +253,11 @@ If you want to use a GDP type measure for wellbeing, yes.
 
 There are a lot of them.
 
-## International Comparisions
+## I love XKCD
+
+![](standards.png)
+
+## International Comparisons
 
 This is harder than you think.
 
@@ -254,7 +270,7 @@ We do use Purchasing Power Parity (PPP) to estimate.
 
 ## PPP
 
-The idea is that you buy the same goods in every country and compare how much it costs to get the PPP equivelent.
+The idea is that you buy the same goods in every country and compare how much it costs to get the PPP equivalent.
 
 + Basket of haircut, beer in Mexico is about 200 Pesos.
 + Same products in US is $30.
@@ -262,7 +278,7 @@ The idea is that you buy the same goods in every country and compare how much it
 Warning: Not real numbers.
 
 
-If you want to convert Mexico's 8T Peoso GDP to US dollar terms.
+If you want to convert Mexico's 8T Peso GDP to US dollar terms.
 
 $$1.2T~US\$(PPP)  = 8T~MEX\$ \frac{30~ US\$}{200~ MEX\$}$$
 
@@ -286,13 +302,30 @@ We talked a lot about the CPI in the last chapter
     + Import Price index, etc.
     + Personal Consumption Expenditure Price Index.
     
-The Federal Reserve Open Market Committee (The Fed) tends to focus on the PCE because it can control the defintion and is not built into law.
+The Federal Reserve Open Market Committee (The Fed) tends to focus on the PCE because it can control the definition and is not built into law.
 
 
 ## Producer Price Index
 
-+ Covers all products, even intermeditate ones that somehow effect consumers.
++ Covers all products, even intermediate ones that somehow effect consumers.
 + Even expenditures by non-profits for people.
 
 
 It tends to react faster than CPI.
+
+
+## GDP Price Deflator
+
+The story we told about real GDP is not quite true. It once was true but the new  reality is more complicated.
+
++ This is mostly a story for  another class.
++ Because the way calculate real GDP these days is not the pure index method  shown.
++ The GDP price deflator is what you divide the nominal GDP by to get real GDP
+
+$$GDP~deflator = \frac{Nominal~GDP}{Real~GDP} 100$$
+
+
+
+## Next Up
+
+Our first real macro model -- the Phillips Curve
