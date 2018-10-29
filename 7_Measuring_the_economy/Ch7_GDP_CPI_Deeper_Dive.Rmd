@@ -213,8 +213,8 @@ It is still best to think of real GDP  and real GDP growth as controlling for pr
 
 ## Interpreting GDP and GDP Growth
 
-+ Increases in GDP or per capital GDP does not mean that people are better off.
-+ One country having a higher per capital GDP does not mean that standards of living are higher.
++ Increases in GDP or per capita GDP does not mean that people are better off.
++ One country having a higher per capita GDP does not mean that standards of living are higher.
 
 ## GDP is not all good
 
@@ -231,7 +231,9 @@ If a disaster hits:
 
 ## But it tracks well
 
-Death, mayhem, earthquakes, all increase GDP but not our well being, but we generally get more good than bad.
+Death, mayhem, earthquakes, all increase GDP but not our wellbeing.
+
++ We, generally, get more good than bad.
 
 ## The Major Missing Parts
 
