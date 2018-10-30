@@ -131,6 +131,18 @@ A few things of note: (Grossly Simplifying!!!!!!)
 
 ![](krugmacro5e_fig_8_05.png)
 
+
+## Quick Note
+
++ Macro has a lot of NAME curve or NAME relationships.
++ These are, for the most part, empirical relationships.
++ They create a theory after the fact.
++ Many have an anoying property, once you try to use them as a policy lever, they vanish.
+    + Does not happen in the physical sciences.
+    + Atoms do not anticipate policies or have a model of self.
+    + Goodhart's law:"Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes."
+
+
 ## Okun's Law
 
 + More exactly a rule of thumb
@@ -234,7 +246,57 @@ Pay more than you need to so that:
 
 ## Unemployment Benefits
 
++ Huge variance on how this is implemented
+    + US is a mandatory insurance payment.
+    + Ghent System (Denmark, Sweden, Iceland) is through union membership.
+    + Government payments
++ The intensity/duration trade-off
+    + High payments but short duration
+    + Low payments but long duration (Ireland is 193 EUR as long as you are unemployed)
+    + More common is 30 months.
+    + US is the rare short duration, 6 months.  
+    + Most OECD countries are far more than a year.
+    
+In general, it increases the amount of frictional unemployment and increases quality of the match.  It can also induce people to shirk, if the payments are too high and their skills or income potential are low.    
+
 ## The Natural Rate
+
+There are actually two competing concepts:
+
++ The natural rate, which is the sum of frictional and structural unemployment
++ The non-accelerating inflation rate of unemployment (NAIRU) which is the highest unemployment consistent inflation not increasing.
+
+
+They can be thought of as being the same but differ when estimated.
+
+## What Makes the Natural Rate Hard
+
++ We don't have a good month-to-month direct measurement.  Who is frictional and structural.
++ We use the Beveridge relationship, unemployment vs job-openings and longer term trends.
+
+## What Do You See?
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(alfred)
+library(dplyr)
+library(ggplot2)
+
+get_alfred_series("NROU") %>%
+  filter(realtime_period == max(realtime_period)) %>%
+  ggplot(aes(y = NROU, x = date)) + 
+  geom_line() + ylab("Natural Rate") + xlab("")
+
+```
+
+## 
+
++ The long decline since the 80s was a decrease in frictional.
++ Also, more young people and young people going to college.  
++ College grads have a lower unemployment rate.
++ The post 2010 is an uptick in structural
+    + Lots of people in construction because of the housing bubble.
+    + Bubble bursts and people lose jobs.
+
 
 ## Inflation
 
@@ -249,3 +311,13 @@ Pay more than you need to so that:
 
 ## Winner and Losers
 
+## Another Empirical Relationship
+
+There is an empirical relationship between inflation and unemployment -- The Phillips curve.
+
+
+
+
+## Phillips curve
+
+![](krugmacro5e_fig_8_13.png)
