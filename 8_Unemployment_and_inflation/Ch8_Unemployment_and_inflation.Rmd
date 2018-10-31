@@ -69,6 +69,7 @@ get_alfred_series("CIVPART") %>%
 ## You Can Clearly See
 
 + Women entering the economy starting in the mid-60s
++ Boomers entering the economy
 + The peak in 2000 with all the boomers working
 + Small tail off from the boomers starting to retire
 + Big drop offs since 2008.
@@ -137,7 +138,7 @@ A few things of note: (Grossly Simplifying!!!!!!)
 + Macro has a lot of NAME curve or NAME relationships.
 + These are, for the most part, empirical relationships.
 + They create a theory after the fact.
-+ Many have an anoying property, once you try to use them as a policy lever, they vanish.
++ Many have an annoying property, once you try to use them as a policy lever, they vanish.
     + Does not happen in the physical sciences.
     + Atoms do not anticipate policies or have a model of self.
     + Goodhart's law:"Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes."
@@ -148,7 +149,7 @@ A few things of note: (Grossly Simplifying!!!!!!)
 + More exactly a rule of thumb
 + 1% increase in unemployment is associated with a 2% decrease in GDP growth.
 + This is an empirical relationship, not a policy lever.
-    + Car has peddles to control speed
+    + Car has pedals to control speed
     + Also speedometer.
     + Turning the speedometer does not change how fast you go, but
     + Strong empirical relationship with speed of car.
@@ -298,26 +299,122 @@ get_alfred_series("NROU") %>%
     + Bubble bursts and people lose jobs.
 
 
+## Price Level
+
+![](Zellers_1931_Toronto.jpg)
 ## Inflation
 
-+ Price level doesn't mater but the rate of change does
-
++ You make like those prices but you made less than 2K per year.
++ Tricked you.  This is Canada, 1 CAD	= 1.31 USD, in 1931.
++ Price level doesn't mater but the rate of change does.
+    + If your wages increase at a higher rate than inflation -- you win.
+    + If your wages don't ...
+    
 ## Costs of Inflation
 
-+ Shoe-leather
-+ Menu
-+ Unit of account
+Inflation, or the changing prices in general, imposes some cos:ts on society. Some of these are/have been reduced by technology.  
+
++ Shoe-leather: Increasing cost of a transaction
++ Menu: The cost of relabeling product
++ Unit of account: Costs because rules, often tax rules, assume stable price levels.
+
+## Shoe Leather
+
+Money is worth less every moment.  In high inflation the reduction in values is noticeable over shorter periods of time.
+
++ Low inflation activity
+    + Send cash from till into bank *once* a day.
+    + Pick up pocket cash *once a week*.
+    + Get *monthly* paycheck.
++ High inflation activity (100% per year)
+    + Send cash from till to bank *three times* a day.
+    + Pick up cash *just before* you need it.
+    + Get *daily* paycheck.
+
+There is a lot more activity.  Banks, which are in the middle of non-electronic transactions, grow in hyper-inflationary environments.
+
+## But is it important?
+
+https://www.cia.gov/library/publications/the-world-factbook/rankorder/2092rank.html
+
+BTW:  South Sudan	is about 100%	 and Venezuela is about 500,000%
+
+If you still have a lot of cash transactions, it is important.  If everything is by card -- not really.
+
+## Menu
+
++ Imagine having to reprice every item in a grocery store every night.
+    + We don't do can by can any more.
+    + Electronic shelf tags make this easy
++ Somethings are hand relabeled
+    + Clothing
+    + Meat
++ Sometimes it is just a database change, like everything you buy online.
+
+## Oftentimes you give up
+
+![](zd-replacement-front13.jpg)
+
+In November 2008 that would buy you an egg.  By December, nothing. They used other currencies, like USD.
+
+## Unit of account
+
++ Many rules and contracts assume some price stability.
++ We learned about this in the 70s and have indexed a lot of things to account for this.
++ Taxes still don't adapt
+
+## Quick Tax Example
+
++ In year 1
+    + Buy 1,000 land.
+    + Price level is 100.
+    + Real price of land is $\frac{1000}{100} 100 = 1000$
++ In year 2
+    + Sell land for 1,500.
+    + Price level is 200.
+    + Real price of land is $\frac{1500}{200} 100 = 750$
+    + Government says you "gained" on the deal (1500 -1000 = 500), pay tax of 250.
+    + After tax real value at sale $\frac{1500 - 250 }{200} 100 = 625$
 
 
 ## Winner and Losers
 
+The big reallocations are through borrowing and lending
+
++ Every interest rate has an inflation expectation built into it as well as an adjustment for risk.
+    + Note the $\approx$.  These ignore interaction of the components.
+    + $Nominal \approx Real + Inflation~Expectation + Risk~Factor$
+    + $6\% \approx 2\% + 3\% + 1\%$
+
++ If you borrow, and are just indifferent from borrowing and not, your inflation exception must match the lenders, ignoring risk factor.
+    + $5\% = 2\%(Real) + 3\%(Inflation~Expectation)$
+    + This is the real rate you agreed on. $2\%(Real) = 5\%(Nominal) -  3\%(Inflation~Expectation)$
+    
++ What if inflation is higher than expected?
+    + $-3\%(Real) = 5\%(Nominal) -  8\%(Inflation~Expectation)$
+    + Lender is pissed, they expected 2\% real and got -3\% real.
+    + Borrower is happy, they expected 2\% real and paid  -3\% real.
+    
 ## Another Empirical Relationship
 
-There is an empirical relationship between inflation and unemployment -- The Phillips curve.
+There is/was an empirical relationship between inflation and unemployment -- The Phillips curve.
 
+https://www.economist.com/graphic-detail/2017/11/01/the-phillips-curve-may-be-broken-for-good
 
++ There is a good reason for it to exist, you expect it from Okun's Law.
++ But, in the 1970s, something odd happened, inflation and unemployment increased.
++ The usual story, because we expected inflation, we built in to our behavior, which caused more inflation.
 
+How do you stop an idea?
 
 ## Phillips curve
 
 ![](krugmacro5e_fig_8_13.png)
+
+## What happened?
+
+Well, 1979, the Fed decided to crash the economy (overly dramatic)
+
++ They brought real interest rates to record levels.
++ We had two recessions.
++ But, people believed that inflation would not go above 3% now.

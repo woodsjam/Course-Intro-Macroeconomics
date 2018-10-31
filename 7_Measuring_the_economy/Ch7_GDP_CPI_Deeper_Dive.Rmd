@@ -237,12 +237,12 @@ Death, mayhem, earthquakes, all increase GDP but not our wellbeing.
 
 ## The Major Missing Parts
 
-+ Externalities -- pollution, climate change, waiting in tragic.  Only count if you try to fix them.
++ Externalities -- pollution, climate change, waiting in traffic.  Only count if you try to fix them.
 + Non-Market Transaction -- Household production.
 + Quality Improvements.
 + Sustainability -- Cut down some trees good. Cut down all the trees bad.
 
-You can read a critique [here](https://www.economist.com/finance-and-economics/2018/05/03/economists-focus-too-little-on-what-people-really-care-about?fsrc=scn/fb/te/bl/ed/economistsfocustoolittleonwhatpeoplereallycareaboutfreeexchangetheworthofnations).  It is pithy and overstates.  Economists know all the problems.  We warned others about them and use them the right way, but non-economists keep misusing them.
+You can read a critique [**here**](https://www.economist.com/finance-and-economics/2018/05/03/economists-focus-too-little-on-what-people-really-care-about?fsrc=scn/fb/te/bl/ed/economistsfocustoolittleonwhatpeoplereallycareaboutfreeexchangetheworthofnations).  It is pithy and overstates.  Economists know all the problems.  We warned others about them and use them the right way, but non-economists keep misusing them.
 
 
 ## Any Alternatives?
@@ -330,4 +330,4 @@ $$GDP~deflator = \frac{Nominal~GDP}{Real~GDP} 100$$
 
 ## Next Up
 
-Our first real macro model -- the Phillips Curve
+Our first real macro models -- the Phillips Curve and OKun's Law
