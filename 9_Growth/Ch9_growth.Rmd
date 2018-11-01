@@ -50,11 +50,11 @@ The rate that you grow is key.
     
 ## Example
 
-How long to double \$100 when the growth rate, i.e., the interest rate is 10\%?
+How long to double \$100 when the growth rate, i.e., the interest rate, is 10\%?
 
 $$\frac{70}{10}=7~years$$
 
-How long to double \$100 when the growth rate, i.e., the interest rate is 5\%?
+How long to double \$100 when the growth rate, i.e., the interest rate, is 5\%?
 
 $$\frac{70}{5}=14~years$$
 
@@ -82,7 +82,7 @@ $$\frac{ln(F) - ln(P)}{ln(1+i)} = N$$
 
 $$\frac{ln(10000) - ln(100)}{ln(1+.1)} = `r round((log(10000) - log(100))/log(1.1),2)`~years$$
 
-\$1000 and an interest rate of 10\% grows to 10K in:
+\$1000 and an interest rate of 3\% grows to 10K in:
 
 $$\frac{ln(10000) - ln(1000)}{ln(1+.03)} = `r round((log(10000) - log(1000))/log(1.03),2)`~years$$
 
@@ -115,7 +115,7 @@ Education and skills of the population. If you don't believe this, why are you h
 
 + This is:
     + New tools and ideas that didn't exist. Like IDEs for programming.
-    + Yes, this is massive physical capital but a technological improvement on people with the finest cross cut saws in the world. https://www.youtube.com/watch?v=m0ZELXwFZkc
+    + Yes, this is massive increase in physical capital, but a technological improvement on people with the finest cross cut saws in the world. https://www.youtube.com/watch?v=m0ZELXwFZkc
 + It is even:
     + Printed receipts
     + Phones where you don't have to remember the phone number.
@@ -207,7 +207,7 @@ https://en.wikipedia.org/wiki/List_of_countries_by_gross_fixed_investment_as_per
 
 Check the relative rankings of:
 
-+ China with 7.13% per capital growth from 2010 - 2016
++ China with 7.13% per capita growth from 2010 - 2016
 + World with	1.53%
 + EU 	with 0.71%
 + US with 1.33%

@@ -218,6 +218,8 @@ The usual suspects are:
 + Unions
 + Efficiency Wages
 + Unemployment Benefits
++ Health insurance tied to jobs
++ Home ownership
 
 ## Minimum Wage Laws
 
@@ -259,6 +261,28 @@ Pay more than you need to so that:
     + Most OECD countries are far more than a year.
     
 In general, it increases the amount of frictional unemployment and increases quality of the match.  It can also induce people to shirk, if the payments are too high and their skills or income potential are low.    
+
+## Health insurance tied to jobs
+
+This is mostly about covering pre-existing conditions
+
++ Health insurance tied to jobs is an artifact of WWII.
++ Wages were fixed, to stop inflation.
++ Firms started offering health insurance to attract more workers.
++ Not a big cost till the 70s.
+    + There was a huge round of innovation
+    + New Drugs
+    + New imaging technology, e.g., MRI
+    
+## Homeownership
+
+Remember when I said movers do better than stayers?
+
++ If you are willing to move for higher wages, you get higher wages.
++ Harder to move if you own a home:
+    + Transaction costs are large
+    + More delays and risks
+
 
 ## The Natural Rate
 
@@ -302,9 +326,11 @@ get_alfred_series("NROU") %>%
 ## Price Level
 
 ![](Zellers_1931_Toronto.jpg)
+
+
 ## Inflation
 
-+ You make like those prices but you made less than 2K per year.
++ You may like those prices but you made less than 2K per year.
 + Tricked you.  This is Canada, 1 CAD	= 1.31 USD, in 1931.
 + Price level doesn't mater but the rate of change does.
     + If your wages increase at a higher rate than inflation -- you win.
@@ -312,7 +338,7 @@ get_alfred_series("NROU") %>%
     
 ## Costs of Inflation
 
-Inflation, or the changing prices in general, imposes some cos:ts on society. Some of these are/have been reduced by technology.  
+Inflation, or the changing prices in general, imposes some costs on society. Some of these are/have been reduced by technology.  
 
 + Shoe-leather: Increasing cost of a transaction
 + Menu: The cost of relabeling product
