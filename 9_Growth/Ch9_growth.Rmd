@@ -227,30 +227,82 @@ The short list:
 + Be good at governing and be stable.
 
 ## Build infrastructure
-## Subsidize education
+
+What is infrastructure?
+
++ Roads
++ Electric and Natural Gas pipeline networks
++ Telecommunications
++ Water distribution and storage
+
+## US Examples
+
++ Federal Aid Highway Act of 1956 -- Authorized our interstate highway system
+    + Officially completed in 1992.
+    + Without this, no long-distance trucking.
++ Rural Electrification Act of 1936 
+    + Zero interest loans for the poles
+    + Free install of a few circuits and lights.
+    
+## Typical Problem with Infrastructure
+
++ Building it is sexy.  Maintaining it isn't.
++ The US has a $1T backlog
+
+
+## Subsidize Education
+
++ This could be as simple as basic literacy.
++ It could also mean more people completing secondary education (HS) or post-secondary education.
++ Not all subsidies go where they are intended
+    + Some evidence that subsides to you, low interest loans, provides more rewards to others.
+    + https://github.com/woodsjam/AAUP-Numbers/blob/master/TuitionSalary.pdf
+
 ## Subsidize R&D
-## Well functioning financial system
+
++ This is mostly private not public funded.
++ Public funding tends to be towards basic research, not applied.
++ There is a problem with the last touch, applied research, getting the financial benefits.
+    + Analogous to the goal scorer getting credit winning the game.
+
+## Well Functioning Financial System
+
++ This is institutionalizing a trust.
+    + Trust that deposits can be withdrawn.
+    + Trust that loans are based on merit.
+    + Trust that transactions will be completed.
+
+
 ## Enforce property rights
+
++ This is a complex topic
++ Often this is about intellectual property rights, copyright and patents.
++ Could also be about not having your property seized without compensation.
++ Not selling off public assets to well placed friends.
+
+
 ## Be good at governing and be stable.
 
-
-## A Few Areas To Check in On
-
-+ East Asia
-+ Latin America
-+ Africa
-
-## East Asia
-## Latin America
-## Africa
++ Often this is about corruption       
+    + https://www.transparency.org/news/feature/corruption_perceptions_index_2017#table
+    + Keep in mind that this can be very regional in large countries
++ Or about low bureaucratic overhead
 
 
-## Productivity in US has gone up but
+<!-- ## Productivity in US has gone up but -->
 
-![](krugmacro5e_fig_9_10.png)
+<!-- ![](krugmacro5e_fig_9_10.png) -->
 
-## Convergence or Conditional Convergence
 
-## Can We Do This Sustainably
+## Can We Do This Sustainably (Just Energy)
 
-Yea, its cheaper than the other way, but different groups benefit.
+![](Global-GHG-abatement-cost-curve-beyond-business-as-usual-2030.png)
+
+
+## Summary
+
++ We do plenty of things now that are cost more than the more sustainable path
+    + Other things, perception, perceived risk, get in the way.
+    + Cheaper than doing nothing.
++ The key is that doing things sustainably produces new winners and losers.
+

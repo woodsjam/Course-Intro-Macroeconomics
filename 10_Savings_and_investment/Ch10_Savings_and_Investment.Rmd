@@ -1,0 +1,97 @@
+---
+title: "Ch 10: Savings, Investment and the Financial System"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Open
+
++ This chapter is a mish-mash of a few ideas
+    + Some National Account identities that you will need for Ch 11
+    + A mechanism that you need to make it so sources of funds (savings) is equal to uses of funds (Investments) called the nominal interst rate
+    + Brief discusssion of the objects traded in those markets (loans, stocks)
+    + Brief discussion of the institutions.
+
+
+Notes
+
++ General model of loanable funds nominal i vs quanity of loanable funds
++ Warning that this is a flow measure of things that turn into a stock
++ Demand
+    + Percived business opportunities
+    + Gov borrowing
++ Supply
+    + private savings behavior
+    + Net capital inflows
++ There can be exports and imports of loanable funds
+
++ How does this realate to national accounting (warning math)
+    + The nominal interests rates adapt so that the following is true
+    + No international and no government (to get the logic right)
+        + GDP = C + I 
+        + Sources of funds (Savings) equals use investment (I)
+        + GDP = NI = Consumtion + S = C +I
+        + S=I
+    + With international and Gov't sector
+        + GDP = C + I + G + X - M = NI
+        + Savings is tricky
+            + Gov saves and dissaves
+            + Foreign saves and dissaves
+        + S_gov = T - G -TR
+        + S_priv = S
+        + S_international = M - X (Because they still hold dollars the net is saved.)
+
+Financial systems
+
++ Function
+    + Reduce transaction costs, either per transaction or number of transactions
+    + Reduce risk through diversification
+    + provide liquidity
++ Alternative formulation
+    + Intermediation with respect to scale, time, risk
++ General classifiation
+    + Debt
+        + Loans
+        + Bonds
+        + Loan backed securityes
+    + Assets
+        + stocks
++ Institutions
+    + Mutual
+    + Pension funds
+    + Banks
+    + Exchanges
++ Asset prices (this is finance)
+
+## Three Basic Kinds of Efficient Market Assumptions
+
+Usefulness of information to predict future prices
+
++ Weak: All past price data will not help.  
++ Semi-Strong: Public data does not help
++ Strong: No data public or private can help
+
+## Grampa Ish and Betting on Horses
+
++ You don't know who will win.
++ Calculate your own odds of each horse.
++ Bet the horse that is paying off more than you think it should.
++ You win more often if you have your grandson talk to the jockeys.
+
+## Behavioral Finance 
+
++ Behavioral Economics has a brother.
++ There are plenty of anomalies
+    + Monday Effect, French (1980)
+    + January Effect, Roll(1983)
+    + Firm Size, Banz(1981)
+    + Mean Reversion, DeBondt and Thaler (1985)
+    + Momentum, Jegadeesh (1990)
+    
++ Anomalies get smaller after a paper about it is published.
++ Many critiques have to do with statistical details.
+
+    
