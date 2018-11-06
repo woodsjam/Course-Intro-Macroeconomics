@@ -9,89 +9,216 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Open
 
-+ This chapter is a mish-mash of a few ideas
-    + Some National Account identities that you will need for Ch 11
-    + A mechanism that you need to make it so sources of funds (savings) is equal to uses of funds (Investments) called the nominal interst rate
-    + Brief discusssion of the objects traded in those markets (loans, stocks)
-    + Brief discussion of the institutions.
+
+This chapter is a mish-mash of a few ideas:
 
 
-Notes
++ Some National Account identities that you will need for Ch 11
++ A mechanism that you need to make it so sources of funds (savings) is equal to uses of funds (Investments) called the nominal interest rate
++ Brief discussion of the objects traded in those markets (loans, stocks)
++ Brief discussion of the institutions.
 
-+ General model of loanable funds nominal i vs quanity of loanable funds
-+ Warning that this is a flow measure of things that turn into a stock
-+ Demand
-    + Percived business opportunities
-    + Gov borrowing
-+ Supply
-    + private savings behavior
-    + Net capital inflows
-+ There can be exports and imports of loanable funds
+## An interest rate is a price
 
-+ How does this realate to national accounting (warning math)
-    + The nominal interests rates adapt so that the following is true
-    + No international and no government (to get the logic right)
-        + GDP = C + I 
-        + Sources of funds (Savings) equals use investment (I)
-        + GDP = NI = Consumtion + S = C +I
-        + S=I
-    + With international and Gov't sector
-        + GDP = C + I + G + X - M = NI
-        + Savings is tricky
-            + Gov saves and dissaves
-            + Foreign saves and dissaves
-        + S_gov = T - G -TR
-        + S_priv = S
-        + S_international = M - X (Because they still hold dollars the net is saved.)
++ It is the rental rate on money
+    + Like renting a car.  
+    + You borrow it and return it and pay so much per day
++ It is the price difference between consumption today and consumption tomorrow
+    + Like the peanut/beer trad-off
 
-Financial systems
+## Like any markt with a price
 
-+ Function
-    + Reduce transaction costs, either per transaction or number of transactions
-    + Reduce risk through diversification
-    + provide liquidity
-+ Alternative formulation
-    + Intermediation with respect to scale, time, risk
-+ General classifiation
-    + Debt
-        + Loans
-        + Bonds
-        + Loan backed securityes
-    + Assets
-        + stocks
-+ Institutions
-    + Mutual
-    + Pension funds
-    + Banks
-    + Exchanges
-+ Asset prices (this is finance)
++ There is a price and associated volume
++ A demand (Demand for loanable funds is one)
++ A supply (Supply of loanable funds is one too)
 
-## Three Basic Kinds of Efficient Market Assumptions
+Fits most of the generalities about slopes
 
-Usefulness of information to predict future prices
+## Demand for Loanable Funds
 
-+ Weak: All past price data will not help.  
-+ Semi-Strong: Public data does not help
-+ Strong: No data public or private can help
 
-## Grampa Ish and Betting on Horses
+```{r Demand for Loanable Funds, echo=FALSE, fig.cap='Increase Supply?', message=FALSE, warning=FALSE, paged.print=FALSE}
 
-+ You don't know who will win.
-+ Calculate your own odds of each horse.
-+ Bet the horse that is paying off more than you think it should.
-+ You win more often if you have your grandson talk to the jockeys.
+library(dplyr)
+library(ggplot2)
+library(Hmisc)
 
-## Behavioral Finance 
+BaseLoanable <- ggplot(data.frame()) + 
+  xlab("Quantity of Loanable Funds") +
+  ylab("Nominal Interest Rate") + 
+  xlim(0,12) + ylim(0, 12) + theme_classic() 
 
-+ Behavioral Economics has a brother.
-+ There are plenty of anomalies
-    + Monday Effect, French (1980)
-    + January Effect, Roll(1983)
-    + Firm Size, Banz(1981)
-    + Mean Reversion, DeBondt and Thaler (1985)
-    + Momentum, Jegadeesh (1990)
+
+BaseLoanable + geom_abline(slope = -1 , intercept = 10) +
+  annotate("text", x = 9, y = 2, label = "Demand", size = 2) 
+
+```
+
+## Of Note
+
++ Desired loanable funds increases as the nominal interest rate decreases.
+    + Every investment project has a rate of return (%) if it is higher than the loan rate -- borrow and invest.
+    + Every person has a rate of impatience on consumption (%) if the rate of impatience is higher than the loan rate  -- borrow and enjoy you purchase.
++ What moves it?
+    + Other borrowers with other interests.  Government is the classic borrower that has non-financial interests
+    + Perception of the investments or future consumption
+        + If you think a recession is coming soon, your valuation of the investments, and rate of return (%), decreases.
+        + If you think a recession is coming soon, you are more likely to save than spend.
+
+## Supply of Loanable Funds
+        
+```{r Supply of Loanable Funds, echo=FALSE, fig.cap='Increase Supply?',  message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library(dplyr)
+library(ggplot2)
+library(Hmisc)
+
+BaseLoanable + geom_abline(slope = 1 , intercept = -3) +
+  annotate("text", x = 9, y = 6, label = "Supply", size = 2) 
+
+```
+        
+
+## Of Note
+
++ Quantity Supplied of loanable funds increases as the nominal interest rate decreases.
+    + Every person has a rate of impatience on consumption (%).
+    + If the rate of impatience is lower than the loan rate  -- loan the money out and enjoy greater consumption in the future.
++ What moves it?
+    + Beliefs about the future, save now if you think the future is bad.
+    + Inflows from out of the country.
+
+## Remember Models of Trade?
+
++ You can have domestic and world markets for loanable funds operating at the same time.
++ When $r_{ROW} < r_{Dom}$ funds flow *into* the country from the rest of the world.
++ When $r_{ROW} > r_{Dom}$ funds flow *out of* the country to rest of the world.
+
+## Outflows of funds
+```{r Inflow of Loanable Funds, echo=FALSE, fig.cap='Increase Supply?',  fig.pos="H", message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library(dplyr)
+library(ggplot2)
+library(Hmisc)
+
+BaseLoanable + geom_abline(slope = 1 , intercept = -3) +
+  annotate("text", x = 9, y = 6, label = "Supply", size = 2) +   geom_abline(slope = -1 , intercept = 10) +
+  annotate("text", x = 9, y = 2, label = "Demand", size = 2) +
+  geom_abline(slope = 0 , intercept = 7.5) +
+  annotate("text", x = 9, y = 2, label = "Demand", size = 2) 
+```
+
+## What Does this Have to Do with National Income Accounting?
+
+Nominal interest rates adapt so that savings, supply of loanable funds, is equal to investment, demand for loanable funds
+
+Start with simple model:
+
++ No government and no international sector
++ $GDP = NI = C + I$
++ The interest rate, r, adapts so that Savings, $S(r)$, is equal to investment, $I(r)$.
++ All income, $NI$, must be saved, S, or spent, C.
++ $NI = C + S(r) = C + I(r)$
++ Since consumption has to equal consumption
++ $S(r)=I(r)$
+
+## Be Clear What this Means
+
+$$S(r)=I(r)$$
+
++ The nominal interest rate,r , adapts to make them equal.
++ If savings increases, investment increases.
++ If savings decreases, investment decreases.
++ Investment now means higher per capital GDP, and consumption, later
+
+
+## More complicated with Government
+
+$$GDP = NI = C + I + G$$
+
++ Two types of savings, private and government
+    + $S_{private}(r)$
+    + $S_{gov} = T - G$ Taxes,T, less expenditures, G..
++ Income must be spent or saved. $NI = C + S(t) + I(r) + (T  - S_{gov})$ 
+    + $S_{private}(r) + S_{Gov} = I(r)$
+    + Suppose:
+        + If government runs a deficit, $S_{Gov}<0$, meaning $T<G$, then less investment.
+        + If government runs a surplus, $S_{Gov}>0$, meaning $G<T$, then less investment.
+
+
+## With International Sector
+
+$$GDP = NI = C + I + G + (X-M)$$
+
++ Three sources of funds:
+    + $S_{private}(r)$
+    + $S_{gov} = T - G$
+    + $Capital~Inflow = M - X$
++ $S_{private}(r) + S_{Gov} + Capital~Inflow  = I(r)$    
+
+The interpretation can get crazy:
+
++ Running a trade deficit, $M>X$, means you are borrowing money from foreigners to buy their goods.
++ Government runs deficits, means net imports increase and/or investment falls.
++ Trade deficits and budget deficits are bound together.
     
-+ Anomalies get smaller after a paper about it is published.
-+ Many critiques have to do with statistical details.
+## More on the twin deficits
+
+Lets make the simplifying assumption that there is no private savings, $S_{private} = 0$ and that nobody wants to invest, $I(r)$  
+
+$$0 + S_{Gov} + Capital~Inflow  = 0$$
+
+If the government wants to run a deficit, $S_{Gov}<0$, the we need a net capital inflow, $Capital~Inflow>0$ and that only happens when imports are greater than exports, i.e., we run the deficit by borrowing money from foreigners.
+
 
     
+<!-- Financial systems -->
+
+<!-- + Function -->
+<!--     + Reduce transaction costs, either per transaction or number of transactions -->
+<!--     + Reduce risk through diversification -->
+<!--     + provide liquidity -->
+<!-- + Alternative formulation -->
+<!--     + Intermediation with respect to scale, time, risk -->
+<!-- + General classifiation -->
+<!--     + Debt -->
+<!--         + Loans -->
+<!--         + Bonds -->
+<!--         + Loan backed securityes -->
+<!--     + Assets -->
+<!--         + stocks -->
+<!-- + Institutions -->
+<!--     + Mutual -->
+<!--     + Pension funds -->
+<!--     + Banks -->
+<!--     + Exchanges -->
+<!-- + Asset prices (this is finance) -->
+
+<!-- ## Three Basic Kinds of Efficient Market Assumptions -->
+
+<!-- Usefulness of information to predict future prices -->
+
+<!-- + Weak: All past price data will not help.   -->
+<!-- + Semi-Strong: Public data does not help -->
+<!-- + Strong: No data public or private can help -->
+
+<!-- ## Grampa Ish and Betting on Horses -->
+
+<!-- + You don't know who will win. -->
+<!-- + Calculate your own odds of each horse. -->
+<!-- + Bet the horse that is paying off more than you think it should. -->
+<!-- + You win more often if you have your grandson talk to the jockeys. -->
+
+<!-- ## Behavioral Finance  -->
+
+<!-- + Behavioral Economics has a brother. -->
+<!-- + There are plenty of anomalies -->
+<!--     + Monday Effect, French (1980) -->
+<!--     + January Effect, Roll(1983) -->
+<!--     + Firm Size, Banz(1981) -->
+<!--     + Mean Reversion, DeBondt and Thaler (1985) -->
+<!--     + Momentum, Jegadeesh (1990) -->
+
+<!-- + Anomalies get smaller after a paper about it is published. -->
+<!-- + Many critiques have to do with statistical details. -->
+
