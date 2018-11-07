@@ -144,6 +144,7 @@ $$GDP = NI = C + I + G$$
     + Suppose:
         + If government runs a deficit, $S_{Gov}<0$, meaning $T<G$, then less investment.
         + If government runs a surplus, $S_{Gov}>0$, meaning $G<T$, then less investment.
+        + Above comments have more assumptions  and only considers *current* investment.
 
 
 ## With International Sector
@@ -170,55 +171,97 @@ $$0 + S_{Gov} + Capital~Inflow  = 0$$
 
 If the government wants to run a deficit, $S_{Gov}<0$, the we need a net capital inflow, $Capital~Inflow>0$ and that only happens when imports are greater than exports, i.e., we run the deficit by borrowing money from foreigners.
 
+## Financial Systems
 
+How supply and demand  of loanable funds meet.
     
-<!-- Financial systems -->
+    
+## What Do Financial Systems Do?    
 
-<!-- + Function -->
-<!--     + Reduce transaction costs, either per transaction or number of transactions -->
-<!--     + Reduce risk through diversification -->
-<!--     + provide liquidity -->
-<!-- + Alternative formulation -->
-<!--     + Intermediation with respect to scale, time, risk -->
-<!-- + General classifiation -->
-<!--     + Debt -->
-<!--         + Loans -->
-<!--         + Bonds -->
-<!--         + Loan backed securityes -->
-<!--     + Assets -->
-<!--         + stocks -->
-<!-- + Institutions -->
-<!--     + Mutual -->
-<!--     + Pension funds -->
-<!--     + Banks -->
-<!--     + Exchanges -->
-<!-- + Asset prices (this is finance) -->
++ Book's Story
+    + Reduce transaction costs, either per transaction or number of transactions
+    + Reduce risk through diversification
+    + provide liquidity
++ Alternative formulation: Intermediation with respect to scale, time, risk.
 
-<!-- ## Three Basic Kinds of Efficient Market Assumptions -->
+## Book Discusses a Few Kinds of  Securities
 
-<!-- Usefulness of information to predict future prices -->
++ General classification
+    + Debt
+        + Loans
+        + Bonds
+        + Loan backed securities
+    + Assets
+        + stocks
++ There are way, way more.
+    + Futures 
+    + Options
+    + Generally, derivatives
+    
+## Debt Details
 
-<!-- + Weak: All past price data will not help.   -->
-<!-- + Semi-Strong: Public data does not help -->
-<!-- + Strong: No data public or private can help -->
++ Loans
+    + One person borrows from one person and pay them back.
+    + Rights to collect are bought and sold.
++ Bonds
+    + One person borrows from many people.
+    + Pay back with interest coupons every six months (common)
+    + Pay back the principal at the end.
+    + Organized market to buy and sell
++ Loan backed securities
+    + Lend out money to a lot of different people.
+    + Package all the loans together and sell fractional shares rights to collect
 
-<!-- ## Grampa Ish and Betting on Horses -->
+## Quick Insight into Mortgage Backed Securities circa 2008
 
-<!-- + You don't know who will win. -->
-<!-- + Calculate your own odds of each horse. -->
-<!-- + Bet the horse that is paying off more than you think it should. -->
-<!-- + You win more often if you have your grandson talk to the jockeys. -->
++ Sell loans to people.
++ Package them into a security
++ Sell the security to a bunch of people.
++ Repeat.
 
-<!-- ## Behavioral Finance  -->
+## Why They Thought They Were Safe
 
-<!-- + Behavioral Economics has a brother. -->
-<!-- + There are plenty of anomalies -->
-<!--     + Monday Effect, French (1980) -->
-<!--     + January Effect, Roll(1983) -->
-<!--     + Firm Size, Banz(1981) -->
-<!--     + Mean Reversion, DeBondt and Thaler (1985) -->
-<!--     + Momentum, Jegadeesh (1990) -->
+Tranches based on who goes in foreclosure (One way to tranch)
 
-<!-- + Anomalies get smaller after a paper about it is published. -->
-<!-- + Many critiques have to do with statistical details. -->
++ A, B and C tranch.
++ If someone defaults on a loan, the C tranch takes the loss till there are no loans in C.
++ Then if more defaults, the B tranch
+
+Then they pulled an inception move
++ Built up new securities from a bunch of C tranches
++ Like making sausage out of sausage and adding filler each time.
+
+## Are These Prices Right?
+
+Shocking hard question!
+
+It depends on how you think information is embedded in asset prices.
+
+## Three Basic Kinds of Efficient Market Assumptions
+
+Usefulness of information to predict future prices
+
++ Weak: All past price data will not help.
++ Semi-Strong: Public data does not help
++ Strong: No data public or private can help
+
+## Grampa Ish and Betting on Horses
+
++ You don't know who will win.
++ Calculate your own odds of each horse.
++ Bet the horse that is paying off more than you think it should.
++ You win more often if you have your grandson talk to the jockeys.
+
+## Behavioral Finance
+
++ Behavioral Economics has a brother.
++ There are plenty of anomalies
+    + Monday Effect, French (1980): Monday same trend as Friday
+    + January Effect, Roll(1983): January is up
+    + Firm Size, Banz(1981): Small firm, high return
+    + Mean Reversion, DeBondt and Thaler (1985): What goes up, comes back down.
+    + Momentum, Jegadeesh (1990): Returns keep rising or falling.
+
++ Anomalies get smaller after a paper about it is published.
++ Many critiques have to do with statistical details.
 
