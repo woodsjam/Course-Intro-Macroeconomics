@@ -1,0 +1,165 @@
+---
+title: "Ch 11: Income Expenditure Model"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Goals
+
++ Look at the simple income-expenditure model
++ Talk about some limitations
++ Examine one of the many multipliers
+
+## A Simple Idea
+
++ People get disposable income, $yd$.
++ They spend some money just because, $a$.  This is called autonomous consumption.
++ They save some fraction, the marginal propensity to save ($MPS$), of each additional dollar of disposable income and spend other fraction, the marginal propensity to consume, ($MPC$), $MPC = 1 - MPS$$.
+
+$$C = a + MPC * yd$$
+
+
+## Picture
+
+```{r Consumption Function, echo=FALSE, fig.cap='Increase Supply?', message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library(dplyr)
+library(ggplot2)
+library(Hmisc)
+
+BaseConsumption <- ggplot(data.frame()) + 
+  xlab("yd") +
+  ylab("C") + 
+  xlim(0,12) + ylim(0, 12) + theme_classic() 
+
+
+BaseConsumption + geom_abline(slope = .6 , intercept = 3) +
+  annotate("text", x = 9, y = 11, label = "Consumption Function", size = 2) 
+
+```
+
+## Of Note
+
++ MPC, the slope, does not tell you the average savings rate $\frac{yd - C}{yd}$$ but the fraction of each additional dollar of income that you save.
++ At low levels of income, you spend more than you save.
++ At high levels of income, you spend less than you save.
++ $a$ is the intercept and $MPC$ is the slope
+
+## What Moves the Consumption Function?
+
++ Beliefs about the future
+    + If you think your income will be higher in the future, spend more now and save less, i.e., shift up.
+    + If you think your income will be lower in the future, spend less now and save more, i.e., shift down.
++ Wealth
+    + Adequate or inadequate wealth depends on where you are in your earning years.
+    + Booming stock market often indicates an increase in wealth, and an increase, shift up, in the expenditure function.
+    
+    
+## Massive Simplifications
+
++ Why are you saving?
++ Why linear?
++ When do I die/retire/have my rainy day?
+
+## Lets Build an Economy
+
++ C is as described, $C = a + MPC * yd$
++ No government or international sector
++ I is the same for all $yd$ but can move based on the interest rate.
+    + It has two components, planned ($I_{planned}$) and unplanned ($I_{unplanned}$)
++ The aggregate expenditure function (AE) is the sum of C and $I_{planned}$.
+
+$$AE = a + MPC * yd + I_{planned}$$
+
+## A Principle Returns  
+
+Principle #10: One person’s spending is another person’s income. 
+
+
++ We need to have expenditures, $AE$, equal to income, $yd$.
++ If $AG$ is higher than $yd$, then inventories shrink, $I_{unplanned}<0$
++ If $AG$ is lower than $yd$, then inventories expand, $I_{unplanned}>0$
+
+## On the Graph
+
+```{r Equilibrium, echo=FALSE, fig.cap='Increase Supply?', message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library(dplyr)
+library(ggplot2)
+library(Hmisc)
+
+
+
+BaseConsumption + geom_abline(slope = .6 , intercept = 3) +
+  annotate("text", x = 9, y = 11, label = "Consumption Function", size = 2) +
+  geom_abline(slope = 1 , intercept = 0) +
+  geom_vline(xintercept = 5) +
+  geom_vline(xintercept = 10)
+
+```
+
+
+## Note
+
++ If $AE>yd$, i.e, when yd is low, inventories shrink
++ if $AE<yd$, i.e, when yd is high, inventories build
++ Inventory change is what makes the income expenditure equilibrium stable.
++ Often called the "Keynesian Cross"
+
+
+## So, what is the equilibrium
+
+$$
+\begin{aligned}
+yd = a + yd (MPC) + I_{planned}\\
+(1-MPC)yd = a + I_{planned}\\
+yd = \frac{a + I_{planned}}{(1-MPC)}
+\end{aligned}
+$$
+
+## (One of the) Multiplier(s)
+
+$$\frac{1}{1-MPC}$$
+
++ This is one of many 'multipliers' in introductory macroeconomics.
++ Often goes by, "Fiscal Policy Multiplier".  You will see why in later chapters.
+
+## Numerical without Investment
+
+$$
+\begin{aligned}
+yd = 3 + yd (.6)+ 0\\
+(1-.6)yd = 3\\
+yd = \frac{3}{(1-.6)} = 7.5
+\end{aligned}
+$$
+
+## Here is where it gets odd
+
+Lets start saving more because we think the economy is going to tank. $a$ drops from 3 to 2.
+
+$$
+\begin{aligned}
+yd = 2 + yd (.6)+ 0\\
+(1-.6)yd = 2\\
+yd = \frac{2}{(1-.6)} = 5
+\end{aligned}
+$$
+
+Equilibrium GDP dropped from 7.5 to 5.  This is called the paradox of thrift.
+
+## The Paradox of Thrift
+
++ If you believe the economy will be worse, lower GDP, in the future
++ You act like it and save more now.
++ When you save more now, GDP falls.
+
+
+## Next Up
+
+Getting the Price Level and GDP to talk to each other.  The next two chapters are very graph heavy.
+
