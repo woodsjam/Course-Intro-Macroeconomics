@@ -228,12 +228,13 @@ Tranches based on who goes in foreclosure (One way to tranch)
 + Then if more defaults, the B tranch
 
 Then they pulled an inception move
+
 + Built up new securities from a bunch of C tranches
 + Like making sausage out of sausage and adding filler each time.
 
 ## Are These Prices Right?
 
-Shocking hard question!
+Shockingly hard question!
 
 It depends on how you think information is embedded in asset prices.
 

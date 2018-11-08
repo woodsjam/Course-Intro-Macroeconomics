@@ -44,9 +44,9 @@ BaseConsumption + geom_abline(slope = .6 , intercept = 3) +
 
 ## Of Note
 
-+ MPC, the slope, does not tell you the average savings rate $\frac{yd - C}{yd}$$ but the fraction of each additional dollar of income that you save.
-+ At low levels of income, you spend more than you save.
-+ At high levels of income, you spend less than you save.
++ MPC, the slope, does not tell you the average savings rate $\frac{yd - C}{yd}$ but the fraction of each additional dollar of income that you save.
++ At low levels of income, you spend more than you earn.
++ At high levels of income, you spend less than you earn.
 + $a$ is the intercept and $MPC$ is the slope
 
 ## What Moves the Consumption Function?
@@ -81,8 +81,8 @@ Principle #10: One person’s spending is another person’s income.
 
 
 + We need to have expenditures, $AE$, equal to income, $yd$.
-+ If $AG$ is higher than $yd$, then inventories shrink, $I_{unplanned}<0$
-+ If $AG$ is lower than $yd$, then inventories expand, $I_{unplanned}>0$
++ If $AE$ is higher than $yd$, then inventories shrink, $I_{unplanned}<0$
++ If $AE$ is lower than $yd$, then inventories expand, $I_{unplanned}>0$
 
 ## On the Graph
 
