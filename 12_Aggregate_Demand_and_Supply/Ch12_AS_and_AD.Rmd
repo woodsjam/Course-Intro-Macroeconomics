@@ -7,12 +7,15 @@ output: beamer_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
 ## Goals
+
 
 + Build **aggregate demand**, which shows the relationship between the price level and real GDP, from the income expenditure model.
 + Intuit **short-run aggregate supply** from what we know about supply.
 + Introduce **long-run aggregate supply**
 + Show how an economy reacts to a shock in both the short and long run.
+
 
 
 ## Big Intuition Time
@@ -24,6 +27,7 @@ The slopes are mostly because of **sticky nominal wealth and wages**.
 + Your wage rate is nominal.  When prices go up the value and cost of your wages fall.  Basically, the higher the price level, the cheaper it is to pay you
 + Your wealth is also nominal.  When prices go up the value of those cash assets falls. Basically, the higher the price level, the poorer you feel.
 
+
 ## Building Aggregate Demand
 
 Consider that you have \$1M in the bank and the CPI is 200.
@@ -33,7 +37,9 @@ Consider that you have \$1M in the bank and the CPI is 200.
 + Your savings makes you feel pretty bad about spending money now. It doesn't feel like enough. (BTW Better than most people.)
 + So you reduce your autonomous spending, $A_0$ in  $AE_{Planned} = A_0 + MPC yd$
 
+
 ## But Then the Price Level Decreases
+
 
 Now the price level goes from 200 to 100.
 
@@ -43,10 +49,14 @@ Now the price level goes from 200 to 100.
 + You increase autonomous spending.
     + That shifts up the expenditure function
     + That increases equilibrium expenditures
+   
     
 ## Like This
 
+
 ![](krugmacro5e_fig_12_02.png)
+
+
 
 ## The Idea
 
@@ -54,7 +64,9 @@ Now the price level goes from 200 to 100.
 ![](krugmacro5e_fig_12_03.png)
 
 
+
 ## To be clear
+
 
 + This is not about other goods being relatively more or less expensive.
 + But, just like microeconomics
@@ -99,11 +111,15 @@ This depends on wages being sticky in nominal terms but prices of goods being fl
 
 Price level goes up and output increases.
 
+
 ## Flip the arrows in this diagram
+
 
 ![](krugmacro5e_fig_12_05.png)  
 
+
 ## Things That Increase Supply
+
 
 Remember you can flip the increase/decrease to get decrease.
 
@@ -117,14 +133,15 @@ Remember you can flip the increase/decrease to get decrease.
     
 ## Put them Together
 
+
 ![](krugmacro5e_fig_12_11.png) 
 
 
 ## You now can 
 
-Determine the price level and real GDP at the same time.
++ Determine the price level and real GDP at the same time.
 
-IRL, we think about the vertical axis being the inflation rate and not the price level.  This is just easier to wrap your head around.
++ IRL, we think about the vertical axis being the inflation rate and not the price level.  This is just easier to wrap your head around.
 
 ## That is Just Short-Term
 
@@ -140,10 +157,12 @@ In any case, it is a number that does not change with the price level. The Congr
 
 ## Long-Run and Short-Run Equilibrium
 
+
 ![](krugmacro5e_fig_12_14.png)
 
 
 ## Lets play with the Dynamics of this
+
 
 + Keep in mind that AD is the same in the short-run and the long-run
 + In the long-run
@@ -151,6 +170,7 @@ In any case, it is a number that does not change with the price level. The Congr
     + Eventually shifts to where AD crosses LRAS.
     
 ## Lets Play Some Examples
+
 
 People suddenly believe there will be a recession in the future.
 
@@ -171,10 +191,14 @@ People suddenly believe there will be a recession in the future.
 
 ![](krugmacro5e_fig_12_15.png)
 
+
 ## Try Again
 
 
+## Next Up
 
 
-## Again
+Fiscal Policy
+
+
 
