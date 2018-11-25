@@ -1,6 +1,7 @@
 ---
 title: "Ch 1: What is Economics"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}

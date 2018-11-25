@@ -1,6 +1,7 @@
 ---
 title: "Syllabus and The Class"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}
