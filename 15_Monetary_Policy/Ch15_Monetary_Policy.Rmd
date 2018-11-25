@@ -6,3 +6,10 @@ theme: "Berlin"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Goals
+
++ Why we manipulate the money supply
++ How we manipulate the money supply
++ Limitations to how we maniplate the money supply
+
