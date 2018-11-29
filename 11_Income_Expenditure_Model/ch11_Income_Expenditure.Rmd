@@ -1,6 +1,7 @@
 ---
 title: "Ch 11: Income Expenditure Model"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}

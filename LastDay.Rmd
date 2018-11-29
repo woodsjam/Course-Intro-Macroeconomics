@@ -1,0 +1,98 @@
+---
+title: "Last Day"
+output: beamer_presentation
+theme: "Berlin"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## About the Final Exam
+
++ Final Exam: December 4th,	10:15-12:05
++ Comprehensive: Ch 1-15
++ Less on things you have already been examined on and more on what you have not.
+
+## Approximate Distribution of Questions
+
++ Ch 1-4: 1 each
++ Ch 5: 2
++ Ch 6: 3
++ Ch 7: 2
++ Ch 8: 3
++ Ch 9-10: 2 each
++ Ch 11-15: 5 each
+
+## Things to Expect
+
++ I do reuse questions.  Check the midterm exams and quizzes.
++ Previous patterns of what people missed:
+    + Questions based more on what I said, not what was on the slides.
+    + Examples rather than definitions.
+    + Calculation based questions
+    + Many questions on things in the last few days of class
+
+## Exam Day
+
++ The usual with phones and other material in bags at side and front of room.
++ One person per table.
++ Bring a calculator and a pen.
+
+## The Deal
+
++ Before the exam we vote if we want to take it.
+    + Vote is anonymous
+    + Vote to not take exam must be unanimous.
+    
++ If you vote to take it, all is as described in the syllabus.
++ If you vote not to take it:
+    + Grades are calculated based on all existing grades.
+    + Your current rank determines your grade.
+    + About 50% As, 25% Bs, 12% Cs and the rest other.
+
+## My Biggest Challenge
+
++ Found out I was teaching the class very late.
+    + My usual to have all slides done before the term starts.
+    + More activities.
++ Had to write slides, quizzes and exams on the fly.
+    + Not pretty
+    + Errrrorrrs
+
+## What I experimented with
+
++ Getting people to come to class with daily quizzes
+    + Meh result
+    + Strong statistical evidence that showing up is good for grades but...
+    
+How to get better attendance?
+How to get people to review before the next class?
+
+## Technical Test
+
++ The multiple choice quizzes 
+    + Iterated this to improve.
+    + Rapidly gave scores and emailed keys to pdx.edu email.
+    + Main goal was to get students to class and make it easy to grade.
+
+
+Lots of things I can't change on this but what would you change?
+
+## Exam Conundrum
+
+People end early, but score  low.
+
+How do I fix this?
+
+## Getting Help
+
++ Students don't come to get it.
+    + Office hours  were sleepy
+    + GAs didn't report much
+    
+Do I start emailing students warnings and hints?  Do I require a visit?
+
+## 
+
+Your turn for questions
+

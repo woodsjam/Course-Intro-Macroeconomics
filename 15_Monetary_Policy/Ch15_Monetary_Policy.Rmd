@@ -77,10 +77,10 @@ The Federal Reserve buys and sells short-term, 3-month, treasury securities.
 
 
 + Open Market **Purchases**, increase the money supply
-    + MS shifts left
+    + MS shifts right
     + Short-term interest rates fall
 + Open Market **Sales**, decrease the money supply
-    + MS shifts right
+    + MS shifts left
     + Short-term interest rates increase
 
 The idea is to alter the Federal Funds Rate (FFR), which is the interest rate that banks lend to each other over very short, overnight, time frames.

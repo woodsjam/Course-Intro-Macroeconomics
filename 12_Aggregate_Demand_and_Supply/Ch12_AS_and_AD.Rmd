@@ -1,6 +1,7 @@
 ---
 title: "Ch 12: Aggregate Supply and Demand"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}

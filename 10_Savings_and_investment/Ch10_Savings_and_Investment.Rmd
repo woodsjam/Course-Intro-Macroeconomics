@@ -1,6 +1,7 @@
 ---
 title: "Ch 10: Savings, Investment and the Financial System"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}
