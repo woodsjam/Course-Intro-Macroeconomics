@@ -1,6 +1,7 @@
 ---
 title: "Ch 5: International Trade"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}

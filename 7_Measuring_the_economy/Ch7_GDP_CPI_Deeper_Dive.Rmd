@@ -1,6 +1,7 @@
 ---
 title: "Ch 7: GDP and CPI Deeper Dive"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}

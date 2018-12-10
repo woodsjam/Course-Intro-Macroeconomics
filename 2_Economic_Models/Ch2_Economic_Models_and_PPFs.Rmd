@@ -1,6 +1,7 @@
 ---
 title: "Ch 2: Models of Trade-Offs and Trade"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}

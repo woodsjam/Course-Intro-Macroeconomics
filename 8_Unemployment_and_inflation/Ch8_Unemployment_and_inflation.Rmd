@@ -1,6 +1,7 @@
 ---
 title: "Ch 8: Unemployment and Inflation"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}
