@@ -74,13 +74,13 @@ of the term. If your inappropriate conduct is in private, a student code of cond
  
 ## D2L
 
-You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activities. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will typically be due Friday at noon and I will always give you at least a week between assignment of homework and the due date.
+You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activities. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will be due Friday at noon and I will always give you at least a week between assignment of homework and the due date.
 
 The course landing page will also have links to the course slack group and the slides I create for class.
 
 # Assessments and Grade Policy
 
-Your grade in the class will be based on your performance on the midterms, final exam, homework assignments and in-class quizzes.  
+Your grade in the class will be based on your performance on the exams, homework assignments, and in-class quizzes.  
 
 + Final Exam (30%)
 + Midterm 1 (20%)
@@ -92,19 +92,29 @@ Your grade in the class will be based on your performance on the midterms, final
 
 Exams will be closed note and closed book.  Problems will be multiple choice questions but each question may require a significant amount of work.
 
-Students may be assigned seats, and photo ID will be required for all exams. You will only be allowed a writing implement and a calculator.  No headphones, phones, smart watches, internet connected devices, or other material will be allowed.  All backpacks will be stored at the front or side of the classroom.  If we see a phone, we will take your exam, you will receive a zero, and you will be sent to the dean of student life.
+Students _may_ be assigned seats, and photo ID will be required for all exams. You will only be allowed a writing implement and a calculator.  No headphones, phones, smart watches, internet connected devices, or other material will be allowed.  All backpacks will be stored at the front or side of the classroom.  If we see a phone, we will take your exam, you will receive a zero, and you will be sent to the dean of student life.
 
-The seating chart for the exam will be released on slack just before the exam to make it easier to find your seat.
 
 ## In-class quizzes
 
 There may be a pop quiz each class meeting. In-class quizzes are intended to be a check on if you completed the required reading and if you have reviewed the previous meeting's material.
 
-While it may be tempting to avoid class because of the easy access to the lecture slides, this is typically a quick path to a low grade.
+## Limitations on non-attendance
+
+Students that don't attend class, don't do well.  The quiz incentive is strong -- they are cumulatively worth a midterm -- but attendance is typically less than 70%.  Students that miss more than 3 classes very rarely score more than 50% on the exams.
+
+You will only be allowed 4 missing quizzes before I stop giving you credit for work.  Once you miss 5 quizzes, more than 20% of the total class sessions, you will receive a zero for every assignment, quiz, and exam thereafter, including the final exam.  This is enough leeway to allow you to have an short illness or transportation difficulty, but not enough to allow you to sabatage your eduction.
+
++ If you miss class five times, please drop the class and avoid having the bad grade on your transcript.
++ If you have an extended illness or other difficulty that makes it very difficult to come to class, file a deadline appeal to have the course removed from your record and get your tuition returned.  Note that deadline appeals require documentation.
++ Do not attempt to use the allowed absences strategically, you may have a serious need later in the term.
++ I will not adjudicate the worthiness of absences.
++ If you decide to come to class only to take the quiz and leave, or do homework for other courses in class, congratulations, you have gamed the system.
++ "But what if I can do well without attending class?"  This has been true for one student out of roughtly 300 in the last year and he said he wished he had come to class.
 
 ## Homework
 
-Homework will be due, at most, weekly and will turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function.  
+Homework will be due, at most, weekly and will turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function.  **They will always be due by noon on Friday.**
 
 D2L quizzes are intended to be done online without the help of others.  
 
