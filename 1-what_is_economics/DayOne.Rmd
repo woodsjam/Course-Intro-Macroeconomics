@@ -64,6 +64,9 @@ A study of factors affecting the level of national income: the essentials of mon
 + Don't be afraid to Google a picture or an article to help you understand something in class.
     + You need to learn how to help yourself.
     + Learned helplessness is a pet peeve of  mine.
+
+## Warnings (Con't)
+
 + Do not wait till the last minute  
     + Don't make an optimistic, tightly scheduled plans.
     + No plan survives contact with reality
@@ -72,9 +75,10 @@ A study of factors affecting the level of national income: the essentials of mon
 
 ## Key Dates
 
-+ Final Exam: December 4th,	10:15-12:05
-+ Midterm 1: October 18th
-+ Midterm 2: November 13th
++ Final Exam: June 11th,	10:15-12:05
++ Midterm 1: April 25th
++ Midterm 2: May 21st
+
 
 Exams will be given on those days and at those times only.  I do not give make up, early or late exams. Get those on your calendars.  Make sure you are not scheduled to work or deciding to fly somewhere.
 
@@ -83,20 +87,22 @@ DRC People:  Schedule time slots in testing center so that you start at the same
 ## Contact Information
 
 + My office is in CH 241-O.
-+ Drop in office hours are Monday 12:00-1:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ Drop in office hours are Tues 2:30-3:30  through the last week of class. There is no need to make an appointment for these hours -- just come.
 + If you can’t attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 15 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points.  
 
-My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  
+## Contact Information (Con't)
 
-Meetings can be via phone or even the hangout/meet function in your pdx.edu email.
++ My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  
 
-I will also keep Slack up during office hours to answer questions.
++ Meetings can be via phone or even the hangout/meet function in your pdx.edu email.
+
++ I will also keep Slack up during office hours to answer questions.
 
 ## Slack
 
 I avoid email since it is a trash heap and a constant distraction.
 
-+ The class will use slack https://PSUec202Fall2018.slack.com
++ The class will use slack https://psuec202spring2019.slack.com
 + Handles direct messages, forum style responses.
 + You should be able to sign up with your pdx.edu account
 + Can access via webpage, apps in Android and iOS.
@@ -137,7 +143,7 @@ Krugman, Paul R., and Robin Wells. Macroeconomics ed. 5., Worth Publishers, 2018
 
 + Closed book, notes, internet, friend, etc.
 + Mostly multiple choice but not, "what is the definition of .." style.
-+ Seating chart
++ Possible Seating chart
 + ID check
 + Bags, phones, smart watches at the side or front of room.
 + Many versions of the exam.
@@ -147,12 +153,31 @@ Krugman, Paul R., and Robin Wells. Macroeconomics ed. 5., Worth Publishers, 2018
 + Could be one each class
 + Check if you completed the reading
 + Check if you reviewed earlier classes.
-+ Key provided
++ Key will be emailed to your @pdx.edu account.
++ Used to determine if you were in class that day.
+
+
+## Why Is Taking Quiz Important?
+
++ Together they count the same as a midterm.
++ Students that miss more than 3 classes very rarely score more than 50% on the exams.
++ Miss 4 quizzes -- no problem.
++ Miss 5 or more and you get zeros on all following assignments and exams including the final.
+
+## 
+
++ If you miss class five times -- drop the class to avoid an F on your transcript.
++ If you have an extended illness or other difficulty, file a deadline appeal to have the course removed from your record and get your tuition returned.  Note that deadline appeals require documentation.
++ Do not attempt to use the allowed absences strategically.
++ I will not adjudicate the worthiness of absences.
++ If you decide to come to class only to take the quiz and leave, or do homework for other courses in class, congratulations, you have gamed the system.
++ "But what if I can do well without attending class?"  This is true for about one student in 300.
 
 
 ## Homework
 
 + At most weekly.
++ Due at noon (11:59 AM) Fridays.
 + Turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function. 
 + Do not write the assignments out by hand and then turn in a photo in pdf form.
 
@@ -199,6 +224,9 @@ Why did I allocate grades the way I did?
 + Principle #2: The true cost of something is its opportunity cost. 
     + Focus on higher quality, in-class, information.
     + Making sure I am giving **you** the grade and not someone else.
+    
+## Why from My POV? (Con't)
+    
 + Principle #3: “How much” is a decision at the margin. 
     + More on homework would mean less on exams or quizzes.
     + Balanced to achieve my objective -- you knowing things and being able to do things.
@@ -208,7 +236,7 @@ Why did I allocate grades the way I did?
 
 ## Show up
 
-![](Rplot.pdf)
+(From Last Term)[MT2Analysis.pdf]
 
 ## Do your Own Work
 
@@ -249,6 +277,7 @@ So ...
 + What is the opportunity cost of not coming to class?
     + Can't take the quiz
     + You only get the slide version of the lecture, not the full version.
+    + The first four are free, but after that it costs you an F.
     + Do you think you can do well on the homework and exams without attending class?
   
   
@@ -279,8 +308,8 @@ The most expensive part of a meal is not always the best part. Price, the financ
 
 + Forrest Williams: How you get people to donate more
 + ME: How do you get more energy efficiency and what else do you get with it.
-+ Grade Arnold:  NEW
-+ Riju Joshi: NEW
++ Grade Arnold:  Does lack of abortion access make people act more 'responsibly'? 
++ Riju Joshi: How do you know cause rather than just correlation.
 
 
 ##  
@@ -390,7 +419,7 @@ How to tell that you have a good group:
 
 ## Study Every Day
 
-You have a marathon in March.  How do you train?
+You have a marathon in June.  How do you train?
 
 + Run for 60 hrs straight in the four days before
 + Run every day, with break days, building up to a good performance.
