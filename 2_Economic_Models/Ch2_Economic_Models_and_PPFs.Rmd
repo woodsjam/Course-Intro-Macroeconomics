@@ -168,7 +168,7 @@ This is Principle 3: “How much” is a decision at the margin.
 
 + This is called economic growth
 + It can shrink too
-+ why:
++ Why?:
     + Changes in the quantities of the "factors of production"
     + "Factors of Production" A specific way of categorizing inputs/resources.
     + Technology changes
@@ -288,7 +288,7 @@ Not that absolute is about scale.
     + A has comparative advantage in X
     + B has comparative advantage in Y.
 + Absolute Advantage
-    + A has absolute advantage in Y.
+    + A has absolute advantage in X.
     + B has absolute advantage in Y.
 
 ## Lets Do an  Application
@@ -362,7 +362,7 @@ $$Rooms = 2 - Meals$$
 
 ## Comparative Advantage
 
-+ Jamie has a comparative advantage in Meals. $\frac{2}{3}< 1$$
++ Jamie has a comparative advantage in Meals. $\frac{2}{3} < 1$
 + Breeze has a comparative advantage in Rooms. $1 < \frac{3}{2}$
 
 ## Now try to find gains from trade.
@@ -474,7 +474,7 @@ Again, this a partial model.
 
 ## Most of the Term 
 
-+ We will spend a lot of time on that five sector model.
++ We will spend a lot of time on that five-sector model.
 + Many strange results that are actually true
       + Increases in the savings rate causes recessions. Japan is a nice example.
       + Government deficits cause trade deficits. US
