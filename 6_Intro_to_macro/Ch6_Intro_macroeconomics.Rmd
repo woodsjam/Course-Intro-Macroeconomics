@@ -86,7 +86,7 @@ We came into the great depression with no national measure of unemployment.  We 
 
 ## The Activity Concept
 
-Finding if people are employed is easy -- We ask if people are **employeed for pay or profit**.
+Finding if people are employed is easy -- We ask if people are **employed for pay or profit**.
 
 + Assumes any job, part-time or full-time is good.
 + Assumes that the job is the best use of skills.
@@ -134,13 +134,13 @@ A few changes in the unemployment concepts:
 + Temporary layoff (< 30days) were now "unemployed"
 + Waiting to start a job (< 30 days) now "unemployed"
 
-This helped make the measure more sensitive to output.
+This helped make the measure more sensitive to output, i.e., GDP/GNP.
 
 They also noticed that some people said that they were not looking for work because of the, “belief that no work was available in their line of work or community.”
 
 ## Seasonality
 
-There are wide swings in employment, much Agriculture driven (1/5 work force then but 1/50th now.)
+There are wide swings in employment, much Agriculture driven (1/5 work force then, but 1/50th now.)
 
 + For much of the 40s they calculated unemployed/population -- a different rate than we report now.
 + They removed regular patterns so you can:     
@@ -151,7 +151,7 @@ There are wide swings in employment, much Agriculture driven (1/5 work force the
 
 + 1959, 2 years after the last recession, unemployment is still over 5%.
 + New recession in April 1960.
-+ Accusations that methods magnified the growing unemployment problem
++ Accusations that methods magnified the growing unemployment problem.
 + Seasonal adjustments were accused of being used for political purposes.
 
 ## Gordon Committee 1961
@@ -171,8 +171,8 @@ Is unemployment a measure of hardship?
 + Indirect measure of hardship.
 + Not everyone who is looking, needs a job
     + Students
-    + Housewives
-+ Income data in supplemental survey asked income.
+    + Housewives(Remember when this was done.)
++ Income now asked in supplemental survey.
 + Poverty rates, based on threshold income and family size, were now also published as a hardship measures (1965).
 
 ## The 70s
@@ -430,7 +430,7 @@ When a country looks for international help, setting up this kind of tracking sy
 
 ## Revised When we Get More Data
 
-[**Here is the latest press release**](https://www.bea.gov/system/files/2018-09/gdp2q18_3rd_3.pdf)
+[**Here is the latest press release**](https://www.bea.gov/system/files/2019-04/gdp1q19_adv_0.pdf)
 
 Note the following helpful table
 
@@ -441,7 +441,7 @@ Advance to third| 0.6|
 Second to third| 0.2|
 Advance to latest| 1.3|
 
-In other words if you see 4.2% annualized growth reported, on average it will be in 2.9% - 5.5% range.
+In other words if you see 3.2% annualized growth reported, on average it will be in 1.9% - 4.5% range.
 
 ## The Data
 
