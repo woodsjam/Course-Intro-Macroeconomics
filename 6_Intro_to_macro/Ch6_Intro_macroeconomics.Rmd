@@ -2,10 +2,12 @@
 title: "Ch 6: Macro"
 output: beamer_presentation
 theme: "Berlin"
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(fig.width=12, fig.height=8) 
 ```
 
 ## Introduction
@@ -39,7 +41,7 @@ Lets get today's numbers in context with the past
 
 ## Unemployment
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+```{r  echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 
 get_alfred_series("UNRATE") %>% 
   ggplot(aes(y =UNRATE, x = date)) + 
@@ -232,6 +234,9 @@ While similar issues have been in the [**news**](https://www.npr.org/2017/01/29/
 + U4: U3 + Discouraged workers (Believe no work is available and stopped looking)
 + U5: U4 + Marginally attached (Stopped looking but think there may be jobs.)
 + U6: U5 + Part-time workers that want full-time but can't find it.
+
+
+## Recent Data
 
 Currently:
 
@@ -473,7 +478,7 @@ In other words if you see 3.2% annualized growth reported, on average it will be
 
 ## Good Thing We Learned From Great Depression
 
-![](orourke%20fig%201.JPG)
+![](orourke%20fig%201.JPG){ height=70% }
 
 Source: Eichengreen and O'Rourke (2009), updated with data graciously provided by the IMF.
 
