@@ -219,7 +219,7 @@ It is still best to think of real GDP  and real GDP growth as controlling for pr
 
 ## GDP is not all good
 
-Economists do not screw this up but [**others**](https://www.cnbc.com/2017/09/08/feds-dudley-hurricanes-will-boost-economic-activity-over-the-long-run.html) do. 
+Economists do not screw this up but [**others**](https://www.cnbc.com/2017/09/08/feds-dudley-hurricanes-will-boost-economic-activity-over-the-long-run.html) do. A [**more fun example**](https://youtu.be/Tt1W0F0yObg)
 
 + GDP is a flow measure, $/year, like gallons per minute into a tub.
 + Wealth is a stock measure, $, like gallons in a tub.
@@ -230,9 +230,10 @@ If a disaster hits:
 + $1,000 to repair the house (GDP goes up)
 + Your house is now worth what it was before but you just paid an extra $1,000.
 
+
 ## But it tracks well
 
-Death, mayhem, earthquakes, all increase GDP but not our wellbeing.
+Death, mayhem, earthquakes, all increase GDP but not our well-being.
 
 + We, generally, get more good than bad.
 
@@ -331,4 +332,4 @@ $$GDP~deflator = \frac{Nominal~GDP}{Real~GDP} 100$$
 
 ## Next Up
 
-Our first real macro models -- the Phillips Curve and OKun's Law
+Our first real macro models -- the Phillips Curve and Okun's Law
