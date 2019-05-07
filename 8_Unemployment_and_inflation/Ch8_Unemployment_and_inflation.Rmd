@@ -63,7 +63,7 @@ library(ggplot2)
 
 get_alfred_series("CIVPART") %>%
   ggplot(aes(y =CIVPART, x = date)) + 
-  geom_line() + ylab("Labor Force Participaton Rate") + xlab("")
+  geom_line() + ylab("Labor Force Participation Rate") + xlab("")
 
 ```
 
@@ -201,7 +201,7 @@ This is because technological change or big global trends in industry compositio
 
 Autor, David H., David Dorn, and Gordon H. Hanson. 2013. "The China Syndrome: Local Labor Market Effects of Import Competition in the United States." American Economic Review, 103 (6): 2121-68.
 
-" [...] 9.9 percent of those who lose employment following an import shock obtain federal disability insurance benefits."
+" [...] 9.9 percent of those who lose employment following an import shock obtain Federal disability insurance benefits."
 
 "For regions affected by Chinese imports, the estimated dollar increase in per capita SSDI payments is more than thirty times as large as the estimated dollar increase in TAA [*Trade Adjustment Assistance*] payments."
 
@@ -333,7 +333,7 @@ get_alfred_series("NROU") %>%
 
 + You may like those prices but you made less than 2K per year.
 + Tricked you.  This is Canada, 1 CAD	= 1.31 USD, in 1931.
-+ Price level doesn't mater but the rate of change does.
++ Price level doesn't matter but the rate of change does.
     + If your wages increase at a higher rate than inflation -- you win.
     + If your wages don't ...
     
@@ -364,7 +364,7 @@ There is a lot more activity.  Banks, which are in the middle of non-electronic 
 
 https://www.cia.gov/library/publications/the-world-factbook/rankorder/2092rank.html
 
-BTW:  South Sudan	is about 100%	 and Venezuela is about 500,000%
+BTW:  South Sudan	is about 100%	 and Venezuela  is 1.62 million percent in March of 2019 from 2.30 million percent in February.
 
 If you still have a lot of cash transactions, it is important.  If everything is by card -- not really.
 
