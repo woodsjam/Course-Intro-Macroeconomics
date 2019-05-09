@@ -6,6 +6,7 @@ theme: "Berlin"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(fig.width=12, fig.height=8) 
 ```
 
 
@@ -211,7 +212,7 @@ Autor, David H., David Dorn, and Gordon H. Hanson. 2013. "The China Syndrome: Lo
 + Costs to adapt can be high.
 + Expect more of this.
 
-## Institutions Can Also Effect Structural
+## Institutions Can Also Affect Structural
 
 The usual suspects are:
 
@@ -256,10 +257,12 @@ Pay more than you need to so that:
     + Government payments
 + The intensity/duration trade-off
     + High payments but short duration
-    + Low payments but long duration (Ireland is 193 EUR as long as you are unemployed)
+    + Low payments but long duration (Ireland is 203 EUR per week as long as you are unemployed)
     + More common is 30 months.
     + US is the rare short duration, 6 months.  
     + Most OECD countries are far more than a year.
+    
+##    
     
 In general, it increases the amount of frictional unemployment and increases quality of the match.  It can also induce people to shirk, if the payments are too high and their skills or income potential are low.    
 
@@ -364,7 +367,7 @@ There is a lot more activity.  Banks, which are in the middle of non-electronic 
 
 https://www.cia.gov/library/publications/the-world-factbook/rankorder/2092rank.html
 
-BTW:  South Sudan	is about 100%	 and Venezuela  is 1.62 million percent in March of 2019 from 2.30 million percent in February.
+BTW:  South Sudan	is about 100%	 and Venezuela  was 1,620,000% in March of 2019, down from 2,300,000% in February.
 
 If you still have a lot of cash transactions, it is important.  If everything is by card -- not really.
 

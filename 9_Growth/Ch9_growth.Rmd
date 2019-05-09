@@ -6,6 +6,8 @@ theme: "Berlin"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(fig.width=12, fig.height=8) 
+
 ```
 
 
@@ -158,7 +160,7 @@ T is the effect of technology
 
 + The special name is "total factor productivity".
 + Cool kids say "TFP"
-+ We have other kinds of technical change to, e.g.,labor augmenting, but not in this class.
++ We have other kinds of technical change to, e.g., labor augmenting, but not in this class.
 + It stretches the curve up.
 
 ## Graphical Summary
