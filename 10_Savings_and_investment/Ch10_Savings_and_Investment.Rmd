@@ -27,7 +27,7 @@ This chapter is a mish-mash of a few ideas:
 + It is the price difference between consumption today and consumption tomorrow
     + Like the peanut/beer trad-off
 
-## Like any markt with a price
+## Like any market with a price
 
 + There is a price and associated volume
 + A demand (Demand for loanable funds is one)
@@ -222,11 +222,11 @@ How supply and demand  of loanable funds meet.
 
 ## Why They Thought They Were Safe
 
-Tranches based on who goes in foreclosure (One way to tranch)
+Tranches based on who goes in foreclosure (One way to tranche)
 
-+ A, B and C tranch.
-+ If someone defaults on a loan, the C tranch takes the loss till there are no loans in C.
-+ Then if more defaults, the B tranch
++ A, B and C tranche.
++ If someone defaults on a loan, the C tranche takes the loss till there are no loans in C.
++ Then if more defaults, the B tranche
 
 Then they pulled an inception move
 

@@ -1,7 +1,9 @@
 ---
-title: "Ch 3: Supply and Demand"
-output: beamer_presentation
-theme: "Berlin"
+title: 'Ch 3: Supply and Demand'
+theme: Berlin
+output:
+  slidy_presentation: default
+  beamer_presentation: default
 ---
 
 ```{r setup, include=FALSE}
