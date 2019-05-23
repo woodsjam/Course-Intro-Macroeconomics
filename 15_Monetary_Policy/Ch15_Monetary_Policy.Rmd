@@ -5,6 +5,7 @@ theme: "Berlin"
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(fig.width=12, fig.height=8) 
 ```
 
 ## Goals
