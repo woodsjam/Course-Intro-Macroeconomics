@@ -58,7 +58,7 @@ BaseLoanable + geom_abline(slope = -1 , intercept = 10) +
 
 ## Of Note
 
-+ Desired loanable funds increases as the nominal interest rate decreases.
++ Desired loanable funds increases as the nominal interest rate increases.
     + Every investment project has a rate of return (%) if it is higher than the loan rate -- borrow and invest.
     + Every person has a rate of impatience on consumption (%) if the rate of impatience is higher than the loan rate  -- borrow and enjoy you purchase.
 + What moves it?
@@ -141,11 +141,11 @@ $$GDP = NI = C + I + G$$
 + Two types of savings, private and government
     + $S_{private}(r)$
     + $S_{gov} = T - G$ Taxes,T, less expenditures, G..
-+ Income must be spent or saved. $NI = C + S(t) + I(r) + (T  - S_{gov})$ 
++ Income must be spent or saved. $NI = C - S(r) + I(r) + (T  - S_{gov})$ 
     + $S_{private}(r) + S_{Gov} = I(r)$
     + Suppose:
         + If government runs a deficit, $S_{Gov}<0$, meaning $T<G$, then less investment.
-        + If government runs a surplus, $S_{Gov}>0$, meaning $G<T$, then less investment.
+        + If government runs a surplus, $S_{Gov}>0$, meaning $G<T$, then more investment.
         + Above comments have more assumptions  and only considers *current* investment.
 
 
