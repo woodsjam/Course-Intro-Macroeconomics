@@ -233,7 +233,7 @@ https://www.youtube.com/watch?v=_fNp37zFn9Q
 
 ## There are also total estimates of the effects of fiscal policy
 
-You can also find the net effect [**here**](https://www.brookings.edu/interactives/hutchins-center-fiscal-impact-measure/
+You can also find the net effect [**here**](https://www.brookings.edu/interactives/hutchins-center-fiscal-impact-measure/)
 
 + Yes, you are reading that right, we were contractionary from 2011 till 2015.
 + Neutral until recently.
@@ -271,7 +271,7 @@ The logic is:
 ## The Multiplier IRL
 
 + We don't see expenditure multipliers on the scale of 20 or 5.
-+ More likely between 1 and 3.
++ More likely between 1/2 and 3 1/2.
     + That would mean that the MPS was between 1, save all additional income, to 1/3.
     + The concept is right but more happens  in the real world.
     
@@ -284,19 +284,22 @@ The logic is:
 
 ## The Multiplier Depends on 
 
-+ Who you give tax cuts and transfers to
-    + Rich save more, smaller multiplier
-    + Poor save less, larger.
-+ Local Firms
-+ Expenditures for services vs things
++ Persistence of change
++ The specific kind of expenditure or tax.  Rules are important.
++ How the expenditure or tax change was financed.
++ Anticipated or surprise
++ How distributed
++ State of economy
 
-If anyone ever asks, say the multiplier is $2 \pm 1$. 
+If anyone ever asks, say the multiplier is $2 \pm 1$, but estimates range from .3 to 2+
 
-Also, tell them that the tax multiplier can be less than 1.
+Also, tell them that the tax multiplier can be less than 1, but estimates range form .2 to 5
+
+(Ramey 2019)
 
 ## But the Long-run
 
-There is a good chance  that lowering taxes has long-run supply side effects.
+There is a good chance  that lowering taxes has long-run supply-side effects.
 
 + A tax cut now may shrink current GDP, because the empirical tax multiplier could be less than 1.
 + But, result in more investment, increasing AS, which increases future GDP.

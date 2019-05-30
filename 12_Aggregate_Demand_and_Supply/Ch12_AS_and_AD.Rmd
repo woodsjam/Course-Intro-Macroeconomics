@@ -95,7 +95,7 @@ Flip the sign to decrease
     + Remember that tax cut we just got?
 + More money or decreases in interest rates
     + Both increase investment
-    + Note that we are raising interest rates now.
+    + Note that we in an odd place with [monetary policy](https://www.federalreserve.gov/newsevents/pressreleases/monetary20190501a.htm). 
     
 ## What About Aggregate Supply?
 
@@ -150,7 +150,7 @@ Remember you can flip the increase/decrease to get decrease.
 There is also a long-term aggregate supply function
 
 + It is a little odd.
-+ It could be the level of output consistent with non cyclical unemployment.
++ It could be the level of output consistent with no cyclical unemployment.
 + Or output consistent with NAIRU
 + Or built up statistically
 
@@ -194,7 +194,7 @@ People suddenly believe there will be a recession in the future.
 ![](krugmacro5e_fig_12_15.png)
 
 
-## Try Again
+## Try Again With AD Increase
 
 
 ## Next Up

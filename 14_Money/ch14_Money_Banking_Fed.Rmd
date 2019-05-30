@@ -78,8 +78,8 @@ This just means a way of keeping score
     + At least coins had valuable materials/metals and could be tested.
 + Depended on everyone liking the same metals
     + Gold, silver and other metals were common
-    + Where the west got the idea that gold should be the basis for money.
-    + Where the east got the idea that silver should be.
+    + Where the West got the idea that gold should be the basis for money.
+    + Where the East got the idea that silver should be.
     + That east/west silver/gold pattern generated a lot of history.
     
 ## Nor Easy to Keep Track of
@@ -162,7 +162,7 @@ Everything works fine as long as everyone believes they can get money out of ban
 
 ## You Want to Avoid Those
 
-+ They happened with great regularity before the federal reserve.
++ They happened with great regularity before the Federal Reserve.
 + Often many banks would go down at the same time.
 + The Boston banks acted as reserve banks, lending to those that could survive runs with a little extra funding
 + Panic of 1907
