@@ -27,7 +27,7 @@ Talk about fiscal policy:
 
 ## Probably A Little Overheated
 
-+ Unemployment is below 
++ Unemployment is below full employment, i.e., potential for an inflationary gap
 + Most models of recessions are ticking up in the next year. 
     + https://www.newyorkfed.org/medialibrary/media/research/capital_markets/Prob_Rec.pdf
     + https://www.clevelandfed.org/our-research/indicators-and-data/yield-curve-and-gdp-growth.aspx
@@ -226,7 +226,7 @@ https://www.youtube.com/watch?v=_fNp37zFn9Q
 
 ## We can estimate ...
 
-+ There is an idea of a cyclically adjust budget deficit.
++ There is an idea of a cyclically adjusted budget deficit.
     + Use current law and estimate what tax collection and expenditure would be under the law.
     + Current estimates for the world by the [**IMF**](https://www.imf.org/external/datamapper/GGCBP_G01_PGDP_PT@FM/USA)
     + Note that those are for the national governments.
@@ -322,7 +322,7 @@ Talking about billions and billions is not always helpful.  You need to think ab
 + Scale is not always obvious.
     + We use vehicle miles traveled for travel safety.
     + Makes sense  for cars, planes, etc.
-    + But until 1974 the Saturn 5 rocket, which made trips to the moon was the safest on a per mile basis.
+    + But until 1973 the Saturn 5 rocket, which made trips to the moon, was the safest on a per mile basis.
 + We generally talk about deficits and debt on the scale of GDP.
 
 ## Deficits and Debt

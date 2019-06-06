@@ -43,7 +43,7 @@ These increase demand.
 + If cash is "required" for more purchases.
     + Think of the transactions you don't want a record of
 + Other institutional changes
-    + Maybe things like bitcoin become more volatile.
+    + Maybe things like bitcoin become _more_ volatile.
 
 
 ## Money Supply
@@ -159,12 +159,11 @@ get_alfred_series("DFEDTARU")  %>%
     + This gives them room to lower the interest rate, expansionary, later.
     + Not a lot of room.
     
-## Hot Off The Press
+## Latest Fed Statement
 
-https://www.marketwatch.com/story/fed-policy-should-be-aimed-at-sustaining-expansion-clarida-2018-11-27
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20190501a.htm
 
-+ "...[c]loser to neutral than when the Fed started to hike rates in 2015. "
-+ "Echoing remarks by Fed Chairman Jerome Powell, Clarida said the Fed is trying to raise rates, but not too quickly, because that might cause a recession, and not too slowly, because it could cause the economy to overheat."
++ "[the] Committee decided to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent"
 
 ## So, about that Zero Lower Bound?
 
@@ -178,9 +177,10 @@ https://www.marketwatch.com/story/fed-policy-should-be-aimed-at-sustaining-expan
 
 + Normally, interest rates increase as term increases, i.e., the term premium.
 + In "normal times", say [**2004**](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldYear&year=2004), it is two or three percent 
-+ But, [**now**](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield) it is maybe 1%.
-    + That  small difference is an indicator that we are heading to a recession.
-    + If the yield curve inverts, like [**mid-2000**](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldYear&year=2000) low long-term and high short-term, it is stronger evidence a recession is coming.
++ But, [**now**](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield) it is inverted.
+    <!-- + That  small difference is an indicator that we are heading to a recession. -->
+    + low long-term and high short-term, it is stronger evidence a recession is coming.
+    <!-- + If the yield curve inverts, like [**mid-2000**](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldYear&year=2000) low long-term and high short-term, it is stronger evidence a recession is coming. -->
 
 
 ## Why are They Doing This?
